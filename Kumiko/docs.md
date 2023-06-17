@@ -6,7 +6,7 @@ Object is designed to operate on Windows-based computers. It is developed as a s
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
-- Stable Internet Connection
+- Revit 2013.1 or greater
 
 ---
 
