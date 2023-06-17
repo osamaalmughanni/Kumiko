@@ -1,6 +1,6 @@
 # Overview
 
-Similar to the traditional Dynamo Player, Kumiko enables you to run your Dynamo scripts. However, it goes beyond the standard functionalities by providing enhanced portability, simple collaboration options and easy script sharing.
+Similar to the traditional Dynamo Player, Kumiko allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, easy collaboration options, and simple script sharing.
 
 ## Requirements
 Kumiko is designed to operate on Windows-based computers only. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. However, other main requirements for running Kumiko include:
