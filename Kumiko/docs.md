@@ -1,6 +1,6 @@
 # Overview
 
-Kumiko offers similar functionalities to the built-in Dynamo Player, as it allows you to execute your Dynamo scripts. However, it goes beyond that by providing portability. Kumiko enables you to have your scripts readily available, allowing you to take them along wherever you are and utilize them on any computer. This portability is achieved through features like script synchronization with your git repository. It ensures that you can access and work with your scripts from any location without concerns about having the latest version of your Dynamo scripts.
+Kumiko is similar to the built-in Dynamo Player and allows for the execution of Dynamo scripts. However, Kumiko goes beyond these capabilities by providing enhanced portability. With Kumiko, your scripts are readily accessible, enabling you to carry them with you wherever you go and utilize them on any computer. This level of portability is achieved through innovative features like script synchronization with your git repository. By synchronizing your scripts, Kumiko ensures that you can access and work with the most up-to-date versions from any location. This eliminates the need to worry about having the latest versions of your Dynamo scripts.
 
 Kumiko is designed to operate on Windows-based computers only. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can acquire the most recent version by vising the main website.
 
