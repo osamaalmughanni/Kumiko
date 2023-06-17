@@ -1,6 +1,6 @@
 # Getting Started
 
-Kumiko is designed to operate on Windows-based computers. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can acquire the most recent version by simply clicking on [this link](http://getkumiko/download).
+Kumiko is designed to operate on Windows-based computers. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can acquire the most recent version by vising the main website.
 
 # Requirements
 
