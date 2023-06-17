@@ -145,9 +145,10 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 	"windowTopMost":false
 }
 ```
+
 ---
 
-## Frequently Asked Questions
+# Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
 A: The purpose of this project is to create a user-friendly interface for managing tasks efficiently.
