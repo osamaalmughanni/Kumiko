@@ -20,7 +20,7 @@ Object requires a specific folder structure that includes one or multiple `Libra
 
 The default root folder is located at:
 ```
-%USERPROFILE%\Object\
+%LOCALAPPDATA%\Kumiko
 ```
 
 Here is an example of how the folder content can look like:
