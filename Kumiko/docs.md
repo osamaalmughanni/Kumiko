@@ -1,5 +1,7 @@
 # Overview
 
+Kumiko offers similar functionalities to the built-in Dynamo Player, as it allows you to execute your scripts. However, it goes beyond that by providing portability. Kumiko enables you to have your scripts readily available, allowing you to take them along wherever you are and utilize them on any computer. This portability is achieved through features like script synchronization with your git repository. It ensures that you can access and work with your scripts from any location without concerns about having the latest version of your Dynamo scripts.
+
 Kumiko is designed to operate on Windows-based computers only. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can acquire the most recent version by vising the main website.
 
 ## Requirements
@@ -8,9 +10,6 @@ Kumiko is designed to operate on Windows-based computers only. It is developed a
 - .NET Framework 4.7.2 or greater
 - Revit 2013.1 or greater
 - git (Optional)
-
-
-## Features
 
 ---
 
