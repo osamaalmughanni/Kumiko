@@ -26,9 +26,9 @@ The Software may create and store files on your device, as well as read and acce
 
 ## Subscription Plans
 
-The Software is free to use; however, it is important to address certain critical considerations. In order to uphold a robust and secure environment, certain features and functionalities may not be accessible to all users. These limitations are imposed to ensure the utmost integrity and protection against potential vulnerabilities and security threats. While we understand the desire for unrestricted access and the sharing of scripts, it is imperative to prioritize the security and stability of the tool.
+Although the Software is available for free use, it is necessary to address certain crucial considerations. To ensure a strong and secure environment, certain features and functionalities may not be accessible to all users. These limitations are in place to guarantee the utmost integrity and protection against potential vulnerabilities and security threats. While we understand the desire for unrestricted access and script sharing, it is essential to prioritize the security and stability of the tool.
 
-To maintain the highest standards of security, we offer subscription plans that provide enhanced features and functionalities. These paid plans undergo rigorous scrutiny to ensure they meet the stringent criteria required for safeguarding your valuable data and preventing any unauthorized activities. Please contact us at `mail@getkumiko.com` for further details.
+To maintain the highest security standards, we offer subscription plans that provide enhanced features and functionalities. These paid plans undergo thorough scrutiny to ensure they meet strict criteria for safeguarding your valuable data and preventing any unauthorized activities. For more information about these plans, please contact us at mail@getkumiko.com.
 
 ## Disclaimer of Warranties
 
