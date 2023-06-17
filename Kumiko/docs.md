@@ -1,6 +1,6 @@
 # Getting Started
 
-Object is designed to operate on Windows-based computers. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can get the most recent version of `Object.exe` from [Here](https://object.to).
+Kumiko is designed to operate on Windows-based computers. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can get the most recent version from 
 
 # Requirements
 
