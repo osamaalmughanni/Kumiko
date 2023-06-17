@@ -2,11 +2,14 @@
 
 Kumiko is designed to operate on Windows-based computers. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can acquire the most recent version by vising the main website.
 
-# Requirements
+## Requirements
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
 - Revit 2013.1 or greater
+
+
+## Features
 
 ---
 
