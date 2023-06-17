@@ -1,7 +1,6 @@
 # Overview
 
-Kumiko is similar to the built-in Dynamo Player as it simply allows for the execution of Dynamo scripts. However, it goes beyond these capabilities by providing enhanced portability and easy collaboration functionalities. By synchronizing your scripts, Kumiko ensures that you can access and work with the most up-to-date versions from any location. With Kumiko, your scripts are simply always with you.
-
+Kumiko, similar to the traditional Dynamo Player, allows you to execute Dynamo scripts. However, it goes beyond the standard functionalities by providing enhanced portability and effortless collaboration options. With Kumiko, you can conveniently access your scripts and share them exclusively with chosen team members.
 Kumiko is designed to operate on Windows-based computers only. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. You can acquire the most recent version by vising the main website.
 
 ## Requirements
