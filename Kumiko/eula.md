@@ -1,6 +1,6 @@
 # End-User License Agreement
 
-This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and [Your Company Name] ("Licensor") for the use of the software product(s) ("Software") provided with this EULA.
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Kumiko ("Licensor") for the use of the software product(s) ("Software") provided with this EULA.
 
 By using the Software, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software.
 
@@ -26,7 +26,9 @@ The Software may create and store files on your device, as well as read and acce
 
 ## Subscription Plans
 
-The Software includes a free subscription plan and paid plans with additional features and functionality. You can cancel your subscription at any time, and the cancellation will take effect at the end of the current billing cycle. We do not offer refunds for any unused portion of the subscription period. Licensor reserves the right to modify the features, pricing, or availability of subscription plans at any time without prior notice.
+The Software is free to use; however, it is important to address certain critical considerations. In order to uphold a robust and secure environment, certain features and functionalities may not be accessible to all users. These limitations are imposed to ensure the utmost integrity and protection against potential vulnerabilities and security threats. While we understand the desire for unrestricted access and the sharing of scripts, it is imperative to prioritize the security and stability of the tool.
+
+To maintain the highest standards of security, we offer subscription plans that provide enhanced features and functionalities. These paid plans undergo rigorous scrutiny to ensure they meet the stringent criteria required for safeguarding your valuable data and preventing any unauthorized activities. Please contact us at mail@getkumiko.com for further details.
 
 ## Disclaimer of Warranties
 
@@ -54,7 +56,7 @@ This EULA is effective until terminated. Licensor may terminate this EULA immedi
 
 ## Governing Law
 
-This EULA shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of laws provisions. Any dispute arising out of or in connection with this EULA shall be exclusively resolved in the courts located in [Your Country/State].
+This EULA shall be governed by and construed in accordance with the laws of Austria/Vienna, without regard to its conflict of laws provisions. Any dispute arising out of or in connection with this EULA shall be exclusively resolved in the courts located in Austria/Vienna.
 
 ## Entire Agreement
 
