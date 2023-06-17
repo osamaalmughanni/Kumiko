@@ -1,6 +1,6 @@
 # Overview
 
-Similar to the traditional Dynamo Player, Kumiko allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration using git, and easy script sharing.
+Similar to the traditional Dynamo Player, Kumiko allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
 Kumiko is designed to operate on Windows-based computers only. It is developed as a single executable (exe) file, which means that it contains all of the required code and resources to execute. The main requirements include:
@@ -14,9 +14,11 @@ Kumiko is designed to operate on Windows-based computers only. It is developed a
 
 # Getting Started
 
-## Home
+## Login and verify your email
 
-Object requires a specific folder structure that includes one or multiple `Library` folders for storing collections of digital assets, within which the `Object` folders contain the actual assets.
+Close all active Revit applications and make sure no Revit process is running. Run Kumiko and sign up.
+
+## Connect with your repository
 
 The default root folder is located at:
 ```
