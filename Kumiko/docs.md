@@ -7,6 +7,7 @@ Kumiko is designed to operate on Windows-based computers. It is developed as a s
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
 - Revit 2013.1 or greater
+- Git (Optional)
 
 
 ## Features
