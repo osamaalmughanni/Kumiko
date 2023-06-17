@@ -128,21 +128,20 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json
 
 The file can be found under:
 ```
-%APPDATA%\Object\
+%LOCALAPPDATA%\Kumiko
 ```
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
 ```json
 {
-	"rootDirectory":"C:\\Users\\User\\Object",
-	"maxFiles":5000,
-	"executionTimeout":5000,
-	"windowWidth":653,
-	"windowHeight":859,
-	"windowTopPosition":326,
-	"windowLeftPosition":890,
-	"windowTopMost":false
+  "rootDirectory": "C:\\Users\\osama\\Kumiko",
+  "gitUrl": "https://github.com/osamaalmughanni/mydynamoscripts.git",
+  "windowWidth": 380.0,
+  "windowHeight": 990.0,
+  "windowTopPosition": 247.0,
+  "windowLeftPosition": 1932.0,
+  "windowTopMost": true
 }
 ```
 
