@@ -22,7 +22,9 @@ Download the latest version of Kumiko, close all active Revit applications, and 
 
 ## 02 Connecting with git
 
-https://github.com/osamaalmughanni/docs/assets/49910802/f4459325-cb44-4cbe-b87d-cc208a94f510
+
+https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+
 
 The default root folder is located at:
 ```
