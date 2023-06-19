@@ -16,7 +16,7 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 ## 01 Verification
 
-![alt text](https://github.com/osamaalmughanni/docs/blob/main/Kumiko/links/Capture_2023_06_19_08_21_00_421.png?raw=true)
+![alt text](https://github.com/osamaalmughanni/docs/blob/main/Kumiko/links/Capture_2023_06_19_08_24_49_229.png?raw=true)
 
 Download the latest version of Kumiko, close all active Revit applications, and ensure that no Revit processes are running. Run Kumiko and start the verification process.
 
