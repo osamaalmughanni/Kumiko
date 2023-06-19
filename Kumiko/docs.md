@@ -16,9 +16,6 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 ## 01 Verification
 
-![alt text](https://github.com/osamaalmughanni/docs/blob/main/Kumiko/links/Record-2023-06-19-08-36-17-780.gif?raw=true)
-
-
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
 
