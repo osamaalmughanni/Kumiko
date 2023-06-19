@@ -18,7 +18,7 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 Download the latest version of Kumiko, close all active Revit applications, and ensure that no Revit processes are running. Run Kumiko and start the verification process.
 
-## Connecting with git
+## 02 Connecting with git
 
 The default root folder is located at:
 ```
