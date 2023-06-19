@@ -16,7 +16,7 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 ## 01 Login and verify your email
 
-Close all active Revit applications and make sure no Revit process is running. Run Kumiko and sign up.
+Download the latest version of Kumiko, close all active Revit applications, and ensure that no Revit processes are running. Run Kumiko and start the verification process.
 
 ## Connect with your repository
 
