@@ -22,7 +22,7 @@ Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-Our login process is passwordless. Upon logging in, you will receive a verification code via email. This code is valid for 10 minutes. Simply enter or paste the code to access your account.
+Our login process is passwordless. After logging in, please check your email for a verification code. If you don't receive the email, please remember to check your junk mail folder. The code will be valid for 10 minutes. Enter or paste the code to access your account.
 
 ## 03 Publish your first script
 
