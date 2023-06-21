@@ -24,18 +24,12 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 Our login process is passwordless. Upon logging in, you will receive a verification code via email. This code is valid for 10 minutes. Simply enter or paste the code to access your account.
 
-## 03 Add your first script
+## 03 Connect to your remote Git repository
+
+### 01 Edit configuration file
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-The default root folder is located at:
-```
-%LOCALAPPDATA%\Kumiko
-```
-
----
-
-# Configuration
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
 The file can be found under:
@@ -56,6 +50,11 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
   "windowTopMost": true
 }
 ```
+
+---
+
+# Configuration
+
 
 ---
 
