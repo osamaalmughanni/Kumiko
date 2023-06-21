@@ -3,7 +3,7 @@
 Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
-Kumiko is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are some key requirements:
+Kumiko is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are however the main requirements:
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
@@ -14,17 +14,19 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 # Getting Started
 
-## 01 Verification
-
-https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
+## 01 Get the latest version
 
 Download the latest version of Kumiko, close all active Revit applications, and ensure that no Revit processes are running. Run Kumiko and start the verification process.
 
-## 02 Connecting with git
+## 02 Verify your identity
 
+https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
+
+Our login process is passwordless. Upon logging in, you will receive a verification code via email. This code is valid for 10 minutes. Simply enter or paste the code into Kumiko to access your account.
+
+## 03 Add your first script
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
-
 
 The default root folder is located at:
 ```
