@@ -24,7 +24,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 Our login process is passwordless. Upon logging in, you will receive a verification code via email. This code is valid for 10 minutes. Simply enter or paste the code to access your account.
 
-## 03 Connect to your remote Git repository
+## 03 Publish your first script
 
 ### 01 Edit configuration file
 
