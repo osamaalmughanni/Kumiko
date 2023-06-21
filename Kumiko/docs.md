@@ -16,13 +16,13 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 ## 01 Get the latest version
 
-Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run Kumiko and start the verification process.
+Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
 ## 02 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-Our login process is passwordless. Upon logging in, you will receive a verification code via email. This code is valid for 10 minutes. Simply enter or paste the code into Kumiko to access your account.
+Our login process is passwordless. Upon logging in, you will receive a verification code via email. This code is valid for 10 minutes. Simply enter or paste the code to access your account.
 
 ## 03 Add your first script
 
