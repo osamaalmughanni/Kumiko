@@ -14,19 +14,23 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 # Getting Started
 
-## 01 Get the latest version
+## 1 Get the latest version
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
-## 02 Verify your identity
+## 2 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
 Our login process is passwordless. After logging in, please check your email for a verification code. If you don't receive the email, please remember to check your junk mail folder. The code will be valid for 10 minutes. Enter or paste the code to access your account.
 
-## 03 Publish your first script
+## 3 Publish your first script
 
-### 01 Edit configuration file
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+## 4 Connecting to your remote Git repository
+
+### 4.1 Edit configuration file
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
@@ -51,10 +55,13 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 }
 ```
 
----
+### 4.2 Add Git credentials
 
-# Configuration
+https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+### 4.3 Sync your scripts
 
 ---
 
