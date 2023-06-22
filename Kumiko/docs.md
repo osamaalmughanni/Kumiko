@@ -2,7 +2,7 @@
 Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts inside Revit files. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
-The app is designed to operate exclusively on Windows-based computers. It is developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. However, there are some key requirements that should be considered:
+The app is designed to operate exclusively on Windows-based computers. It is developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. However, there are some key requirements that should be considered, these are:
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
@@ -31,7 +31,6 @@ By default, the recommended location for storing your Dynamo scripts is located 
 ```
 %USERPROFILE%\Kumiko
 ```
-
 *You can also navigate to the root folder by clicking on the Kumiko logo in the sidebar.*
 
 Dynamo scripts must be grouped within folders, with the folder name providing a description of the script's purpose. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
