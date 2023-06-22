@@ -134,11 +134,14 @@ After installing Git, you can proceed with configuring Kumiko to connect to your
 
 ### 5.2 Edit the configuration file
 
-When synchronizing, your content will be pushed to the remote Git repository by default. To do that, you need to edit Kumiko's configuration file.
-You can personalize and change Kumiko's behavior by making changes to the `config.json` file.
+Kumiko has a `config.json` file to store various settings and preferences. By modifying this file, you can customize Kumiko's behavior according to your requirements.
+
+To enable automatic content pushing during synchronization, you need to make some changes inside `config.json`. Specifically, you will insert the URL of your Git repository as the value for the `gitUrl` key.
+
+Follow the steps below to edit the configuration file and enable automatic content pushing:
 
 1. Close Kumiko to ensure that any modifications can take effect.
-2. Locate the `config.json` file in the following directory:
+2. Locate the config.json file in the following directory:
 
 ```
 %LOCALAPPDATA%\Kumiko
@@ -146,7 +149,7 @@ You can personalize and change Kumiko's behavior by making changes to the `confi
 
 3. Open the config.json file using a text editor of your choice.
 
-Inside the `config.json` file, you will find various settings that you can customize. Make sure to insert the URL of your Git repository as a value for `gitUrl`.
+Inside the `config.json` file, you will find a JSON structure containing various settings that you can customize. Look for the `gitUrl` key and insert the URL of your Git repository as its value. Here's an example:
 
 ```json
 {
@@ -160,13 +163,7 @@ Inside the `config.json` file, you will find various settings that you can custo
 }
 ```
 
-Here is a short explanation for each key:
-
-1. `rootDirectory`: Storage folder for Kumiko's files and data.
-2. `gitUrl`: URL of the Git repository Kumiko syncs with.
-3. `windowWidth` and `windowHeight`: Dimensions of Kumiko's application window.
-4. `windowTopPosition` and `windowLeftPosition`: Position of Kumiko's window on the screen.
-5. `windowTopMost`: Boolean for keeping Kumiko's window always on top.
+Once you have made the necessary changes, save the `config.json` file. Now, when you synchronize your content using Kumiko, it will automatically push the changes to the specified Git repository if the `gitUrl` value is provided.
 
 ### 5.3 Git authentication
 
