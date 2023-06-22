@@ -1,8 +1,8 @@
-# Overview
+# What is Kumiko for?
 Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts inside Revit files. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
-The app is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. However, there are some key requirements:
+The app is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. However, there are some key requirements that should be considered:
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
@@ -17,17 +17,15 @@ The app is designed to operate exclusively on Windows-based computers. It has be
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
-After running, Kumiko will detect any Revit version (2023.1 or later) and automatically install the necessary .dll and .addin files for you.
-
 ## 2 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-Enter your email to verify your identity. After logging in, check your email for a verification code. Remember to check your junk mail folder if you don't recieve the email. The code will expire after 10 minutes. Enter or paste the code to access your account.
+First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
 # 3 Add your first scripts
 
-## 3.1 Understand Kumiko's folder structure
+## 3.1 Kumiko's folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
