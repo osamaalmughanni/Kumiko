@@ -2,7 +2,7 @@
 Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
-Kumiko is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are some key requirements:
+The app is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are some key requirements:
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
@@ -25,7 +25,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 Enter your email to verify your identity. After logging in, check your email for a verification code. Remember to check your junk mail folder if you don't recieve the email. The code will expire after 10 minutes. Enter or paste the code to access your account.
 
-# 3 Publish your first script
+# 3 Add your first scripts
 
 ## 3.1 Understand Kumiko's folder structure
 
@@ -103,6 +103,10 @@ This is an example of how such a file might look like.
 ```
 
 ### 3.1.3 Sync your scripts
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+### 3.1.4 Run
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
