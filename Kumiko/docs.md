@@ -1,9 +1,8 @@
 # Overview
-
 Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
-Kumiko is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are however the main requirements:
+Kumiko is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are some key requirements:
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
@@ -18,16 +17,47 @@ Kumiko is designed to operate exclusively on Windows-based computers. It has bee
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
+After running, Kumiko will detect any Revit version (2023.1 or later) and automatically install the necessary .dll and .addin files for you.
+
 ## 2 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-Our login process is passwordless. After logging in, please check your email for a verification code. If you don't receive the email, please remember to check your junk mail folder. The code will be valid for 10 minutes. Enter or paste the code to access your account.
+Enter your email to verify your identity. After logging in, check your email for a verification code. Remember to check your junk mail folder if you don't see the email. The code will expire after 10 minutes. Enter or paste the code to access your account.
 
 ## 3 Publish your first script
 
-### 3.1 Add your first script inside the root folder
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### 3.1 Kumiko's root folder
+
+By default, the recommended location for storing your Dynamo scripts is located at:
+```
+%USERPROFILE%\Kumiko
+```
+
+This is an example on how you can organise your Dynamo scripts:
+
+```
+- 📁 Extract Room Areas
+  └── 📄 script.dyn
+- 📁 Create Floor Plans
+  └── 📄 script.dyn
+- 📁 Generate 3D Views
+  └── 📄 script.dyn
+```
+
+```
+- 📁 Extract Room Areas
+  ├── 📄 script.dyn
+  └── 📄 script.json 🗎
+
+- 📁 Create Floor Plans
+  ├── 📄 script.dyn
+  └── 📄 script.json 🗎
+
+- 📁 Generate 3D Views
+  ├── 📄 script.dyn
+  └── 📄 script.json 🗎
+```
 
 ### 3.2 Sync
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
