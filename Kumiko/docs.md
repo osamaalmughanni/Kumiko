@@ -145,17 +145,13 @@ Inside the config.json file, you will find various settings that you can customi
 }
 ```
 
-Here is a brief explanation for each setting:
+Here is a short explanation for each setting:
 
-1. **rootDirectory**: Specifies the root directory where Kumiko will store its files and data. You can modify this path to a directory of your choice.
-
-2. **gitUrl**: Specifies the URL of the Git repository that Kumiko will sync with. You can change this setting to sync Kumiko with your Git repository.
-
-3. **windowWidth** and **windowHeight**: Determine the dimensions of Kumiko's application window. You can adjust these values to suit your screen size and personal preference.
-
-4. **windowTopPosition** and **windowLeftPosition**: Control the position of Kumiko's window on your screen. You can modify these values to change its default placement.
-
-5. **windowTopMost**: A boolean value that determines whether Kumiko's window will always stay on top of other windows. Set it to `true` if you want Kumiko's window to be topmost; otherwise, set it to `false`.
+1. `rootDirectory`: Storage folder for Kumiko's files and data.
+2. `gitUrl`: URL of the Git repository Kumiko syncs with.
+3. `windowWidth` and `windowHeight`: Dimensions of Kumiko's application window.
+4. `windowTopPosition` and `windowLeftPosition`: Position of Kumiko's window on the screen.
+5. `windowTopMost`: Boolean for keeping Kumiko's window always on top.
 
 ### 5.2 Git authentication
 
