@@ -25,7 +25,7 @@ First, enter your email to verify your identity. After logging in, check your em
 
 ## 3 Organise your scripts
 
-### 3.1 Understand the folder structure
+### 3.1 Kumiko's folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -45,9 +45,9 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
         └── 📄 script.dyn
 ```
 
-### 3.2 Add Playlists
+### 3.2 Playlists
 
-You can also include multiple scripts within a folder if you want to run them sequentially:
+You can also include multiple scripts within a folder if you want to run them sequentially as a Playlist:
 
 ```
 - 📁 Kumiko
@@ -62,7 +62,7 @@ You can also include multiple scripts within a folder if you want to run them se
         └── 📄 02-generateViews.dyn
 ```
 
-When running multiple scripts within a folder, their execution order will be influenced by their alphabetical order. So, make sure to keep that in mind while organizing your scripts.
+When running multiple scripts, the execution order will be influenced by their alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
 ### 3.3 Document your script (Optional)
 
@@ -84,13 +84,13 @@ Additionally, you can include a `script.json` file to provide additional informa
       └── 📝 script.json
 ```
 
-Here is a sample representation of a file:
+Here is a sample representation of the `script.json` file:
 
 ```json
 {
    "title":"Export data as .xlsx",
    "description":"Export an active open schedule with element IDs from Revit to Excel, facilitating data analysis and manipulation outside of Revit.",
-   "author":"Osama Almughanni",
+   "author":"John Doe",
    "compatibility":"Revit 2022-2023",
    "dependencies":[
       "Clockwork",
@@ -102,7 +102,7 @@ Here is a sample representation of a file:
 }
 ```
 
-The content in JSON format will be displayed as badges within the script.
+The content of the `script.json` file will be displayed as badges in the script card in Kumiko.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
@@ -118,9 +118,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 5 Connecting to Git repository (Optional)
 
+When synchronizing, you can also sync your content with a remote Git repository. In order to do that, you need first to edit Kumiko's configuration file.
+
 ### 5.1 Edit the configuration file
 
-To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the `config.json` file.
+You can personalize and change Kumiko's behavior by making changes to the `config.json` file.
 
 1. Close Kumiko to ensure that any modifications can take effect.
 2. Locate the `config.json` file in the following directory:
@@ -131,7 +133,7 @@ To personalize Kumiko's behavior and adapt it to your specific needs and prefere
 
 3. Open the config.json file using a text editor of your choice.
 
-Inside the config.json file, you will find various settings that you can customize. Here is an example of the file's structure:
+Inside the config.json file, you will find various settings that you can customize. Make sure to insert the URL of your Git repository as a value for `gitUrl`.
 
 ```json
 {
@@ -145,7 +147,7 @@ Inside the config.json file, you will find various settings that you can customi
 }
 ```
 
-Here is a short explanation for each setting:
+Here is a short explanation for each key:
 
 1. `rootDirectory`: Storage folder for Kumiko's files and data.
 2. `gitUrl`: URL of the Git repository Kumiko syncs with.
@@ -155,7 +157,7 @@ Here is a short explanation for each setting:
 
 ### 5.2 Git authentication
 
-When working with Git, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
+When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
