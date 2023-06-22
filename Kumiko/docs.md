@@ -89,14 +89,14 @@ Here is a sample content of the `script.json` file:
 ```json
 {
    "title":"Export Room Areas",
-   "description":"Removes all unplaced rooms and saves all rooms areas to an excel file.",
+   "description":"Removes all unplaced rooms and saves all room areas to an excel file.",
    "author":"John Doe",
    "compatibility":"Revit 2022-2023",
    "dependencies":[
       "Clockwork",
       "BimorphNodes"
    ],
-   "documentation":"https://example.com/script-documentation",
+   "documentation":"https://github.com/johndoe/dynamo/blob/main/scripts/export_room_areas.md",
    "video":"https://www.youtube.com/watch?v=Nd6U2KgHI6k",
    "notes":"Please ensure you have the required packages installed: Clockwork and BimorphNodes."
 }
