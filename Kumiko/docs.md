@@ -34,7 +34,7 @@ By default, the recommended location for storing your Dynamo scripts is located 
 %USERPROFILE%\Kumiko
 ```
 
-Dynamo scripts must be grouped within folders, with the folder name providing a description of the script's purpose, while the file name holds less significance. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
+Dynamo scripts must be grouped within folders, with the folder name providing a description of the script's purpose. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
 
 ```
 - 📁 Kumiko
@@ -102,6 +102,12 @@ This is an example of how such a file might look like.
    "notes":"Please ensure you have the required packages installed: Clockwork and BimorphNodes."
 }
 ```
+
+The json content will be then visualised as badges inside the script.
+
+https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+
+*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
 ### 3.1.3 Sync your scripts
 
