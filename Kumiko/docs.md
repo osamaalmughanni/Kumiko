@@ -13,19 +13,19 @@ The app is designed to operate exclusively on Windows-based computers. It is dev
 
 # Getting Started
 
-## 1 Get the latest version
+# 1 Get the latest version
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
-## 2 Verify your identity
+# 2 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-# 3 Publish your scripts
+# 3 Organise your scripts
 
-## 3.1 Understand Kumiko's folder structure
+## 3.1 Understand the folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -45,7 +45,7 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
         └── 📄 script.dyn
 ```
 
-### 3.1.1 Playlists
+### 3.1.1 Making Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially:
 
@@ -64,7 +64,7 @@ You can also include multiple scripts within a folder if you want to run them se
 
 When running multiple scripts within a folder, their execution order will be influenced by their alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
-### 3.1.2 Optional Script Documentation
+### 3.1.2 Document your script (Optional)
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -108,17 +108,17 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
-### 3.1.3 Sync your scripts
+# 4 Publish your scripts
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-### 3.1.4 Run your first script
+## 4.1 Run your first script
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-# 4 Connecting to Git repository
+# 5 Connecting to Git repository (Optional)
 
-## 4.1 Edit the configuration file
+## 5.1 Edit the configuration file
 
 To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the `config.json` file.
 
@@ -157,7 +157,7 @@ Here is a brief explanation for each setting:
 
 **windowTopMost**: A boolean value that determines whether Kumiko's window will always stay on top of other windows. Set it to `true` if you want Kumiko's window to be topmost; otherwise, set it to `false`.
 
-## 4.2 Git authentication
+## 5.2 Git authentication
 
 When working with Git, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
@@ -165,11 +165,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
-# 5 Collaboration
+# 6 Manage Team Members
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
-## 5.1 Add team members
+## 6.1 Add team members
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
 ---
