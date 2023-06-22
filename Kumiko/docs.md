@@ -104,21 +104,25 @@ This is an example of how such a file might look like.
 
 # 4 Connecting to your remote Git repository
 
-## 4.1 Edit configuration file
+## 4.1 Customize Kumiko's Behavior
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the config.json file. Follow the steps below to edit the configuration file:
 
-The file can be found under:
+1. Close Kumiko to ensure that any modifications can take effect.
+2. Locate the config.json file in the following directory:
+
 ```
 %LOCALAPPDATA%\Kumiko
 ```
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+3. Open the config.json file using a text editor of your choice.
+
+Inside the config.json file, you will find various settings that you can customize. Here is an example of the file's structure:
 
 ```json
 {
-  "rootDirectory": "C:\\Users\\osama\\Kumiko",
-  "gitUrl": "https://github.com/osamaalmughanni/mydynamoscripts.git",
+  "rootDirectory": "C:\\Users\\[username]\\Kumiko",
+  "gitUrl": "https://github.com/[username]/[repo].git",
   "windowWidth": 380.0,
   "windowHeight": 990.0,
   "windowTopPosition": 247.0,
@@ -126,6 +130,16 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
   "windowTopMost": true
 }
 ```
+
+**rootDirectory**: Specifies the root directory where Kumiko will store its files and data. You can modify this path to a directory of your choice.
+
+**gitUrl**: Sets the URL of the Git repository that Kumiko will use for version control. You can change this to your own repository URL.
+
+**windowWidth** and **windowHeight**: Determine the dimensions of Kumiko's application window. You can adjust these values to suit your screen size and personal preference.
+
+**windowTopPosition** and **windowLeftPosition**: Control the position of Kumiko's window on your screen. You can modify these values to change its default placement.
+
+**windowTopMost**: A boolean value that determines whether Kumiko's window will always stay on top of other windows. Set it to `true` if you want Kumiko's window to be topmost; otherwise, set it to `false`.
 
 ## 4.2 Add Git credentials
 
