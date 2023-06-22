@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # 4 Connecting to your remote Git repository
 
-## 4.1 Customize Kumiko's Behavior
+## 4.1 Configurate
 
 To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the `config.json` file. Follow the steps below to edit the configuration file:
 
@@ -153,11 +153,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
-## 4.3 Sync your scripts
+# 5 Collaboration
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
-## 5 Add team members
+## 5.1 Add team members
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
 ---
