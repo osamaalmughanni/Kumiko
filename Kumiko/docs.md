@@ -118,10 +118,23 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 5 Connecting to Git repository (Optional)
 
-When synchronizing, you can also sync your content with a remote Git repository. In order to do that, you need first to edit Kumiko's configuration file.
+### 5.1 Instal Git
 
-### 5.1 Edit the configuration file
+Kumiko requires Git to be installed in order to interact with your repository.
 
+To install the latest version of Git on Windows, follow these steps:
+
+1. Visit the official Git website: [https://git-scm.com/downloads](https://git-scm.com/downloads).
+2. Download the installer for Windows.
+3. Run the downloaded installer.
+4. Follow the installation instructions, keeping the default settings unless you have specific preferences.
+5. Complete the installation.
+
+After installing Git, you can proceed with configuring Kumiko to connect to your remote Git repository.
+
+### 5.2 Edit the configuration file
+
+When synchronizing, your content will be pushed to the remote Git repository by default. To do that, you need to edit Kumiko's configuration file.
 You can personalize and change Kumiko's behavior by making changes to the `config.json` file.
 
 1. Close Kumiko to ensure that any modifications can take effect.
@@ -133,7 +146,7 @@ You can personalize and change Kumiko's behavior by making changes to the `confi
 
 3. Open the config.json file using a text editor of your choice.
 
-Inside the config.json file, you will find various settings that you can customize. Make sure to insert the URL of your Git repository as a value for `gitUrl`.
+Inside the `config.json` file, you will find various settings that you can customize. Make sure to insert the URL of your Git repository as a value for `gitUrl`.
 
 ```json
 {
@@ -155,7 +168,7 @@ Here is a short explanation for each key:
 4. `windowTopPosition` and `windowLeftPosition`: Position of Kumiko's window on the screen.
 5. `windowTopMost`: Boolean for keeping Kumiko's window always on top.
 
-### 5.2 Git authentication
+### 5.3 Git authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
@@ -164,8 +177,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
 ## 6 Manage Team Members
-
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+You can give access to other members 
 
 ### 6.1 Add team members
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
