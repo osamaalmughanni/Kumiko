@@ -47,7 +47,7 @@ This is an example on how you can organise your Dynamo scripts inside the root d
         └── 📄 script.dyn
 ```
 
-### • 3.1.2 Playlists
+### 3.1.1 Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially:
 
@@ -64,7 +64,7 @@ You can also include multiple scripts within a folder if you want to run them se
         └── 📄 generateViews.dyn
 ```
 
-### • 3.1.3 Script documentation
+### 3.1.2 Documentation
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -102,7 +102,7 @@ This is an example of how such a file might look like.
 }
 ```
 
-## 4 Connecting to your remote Git repository
+# 4 Connecting to your remote Git repository
 
 ## 4.1 Edit configuration file
 
