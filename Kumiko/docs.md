@@ -118,6 +118,8 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 5 Connecting to Git repository (Optional)
 
+If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This also allows you to easily collaborate with other contributors on the development of your scripts.
+
 ### 5.1 Instal Git
 
 Kumiko requires Git to be installed in order to interact with your repository.
