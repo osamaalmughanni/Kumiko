@@ -1,8 +1,8 @@
 # Overview
-Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
+Kumiko is similar to the traditional Dynamo Player, as it allows you to run your Dynamo scripts inside Revit files. However, it surpasses standard functionalities by providing enhanced portability, a version-controlled collaboration with git and easy script sharing with other members.
 
 ## Requirements
-The app is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. Here are some key requirements:
+The app is designed to operate exclusively on Windows-based computers. It has been developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. However, there are some key requirements:
 
 - Windows 10 or greater
 - .NET Framework 4.7.2 or greater
@@ -34,7 +34,7 @@ By default, the recommended location for storing your Dynamo scripts is located 
 %USERPROFILE%\Kumiko
 ```
 
-Dynamo scripts are grouped within folders, with the folder name providing a description of the script's purpose, while the file name holds less significance. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
+Dynamo scripts must be grouped within folders, with the folder name providing a description of the script's purpose, while the file name holds less significance. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
 
 ```
 - 📁 Kumiko
@@ -53,15 +53,17 @@ You can also include multiple scripts within a folder if you want to run them se
 ```
 - 📁 Kumiko
   ├── 📁 Extract Room Areas
-  │     ├── 📄 updateValues.dyn
-  │     └── 📄 saveToExcel.dyn
+  │     ├── 📄 01-updateValues.dyn
+  │     └── 📄 02-saveToExcel.dyn
   ├── 📁 Create Floor Plans
-  │     ├── 📄 renameViews.dyn
-  │     └── 📄 createFloorPlans.dyn
+  │     ├── 📄 01-renameViews.dyn
+  │     └── 📄 02-createFloorPlans.dyn
   └── 📁 Generate 3D Views
-        ├── 📄 adaptBoundingBox.dyn
-        └── 📄 generateViews.dyn
+        ├── 📄 01-adaptBoundingBox.dyn
+        └── 📄 02-generateViews.dyn
 ```
+
+When running multiple scripts within a folder, their execution order will be influenced by their alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
 ### 3.1.2 Optional Script Documentation
 
