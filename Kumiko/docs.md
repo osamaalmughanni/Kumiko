@@ -13,19 +13,19 @@ The app is designed to operate exclusively on Windows-based computers. It is dev
 
 # Getting Started
 
-## Get the latest version
+## 1 Get the latest version
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
-## Verify your identity
+## 2 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-## Organise your scripts
+## 3 Organise your scripts
 
-### Kumiko's folder structure
+### 3.1 Kumiko's folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -45,7 +45,7 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
         └── 📄 script.dyn
 ```
 
-### Playlists
+### 3.2 Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially as a Playlist:
 
@@ -64,7 +64,7 @@ You can also include multiple scripts within a folder if you want to run them se
 
 When running multiple scripts, the execution order will be influenced by their alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
-### Document your script (Optional)
+### 3.3 Document your script (Optional)
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -108,7 +108,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
-## Publish your scripts
+## 4 Publish your scripts
 
 Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become visible and ready to be accessed or shared.
 
@@ -116,11 +116,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
-## Connecting to Git repository
+## 4.1 Connecting to Git repository
 
 If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This enables easy access to your work, facilitates collaboration with other contributors during development, and allows you to track any modifications made.
 
-### Install Git
+### 4.2 Install Git
 
 Kumiko requires Git to be installed in order to interact with your repository.
 
@@ -132,7 +132,7 @@ To install the latest version of Git on Windows, follow these steps:
 4. Follow the installation instructions, keeping the default settings unless you have specific preferences.
 5. Complete the installation.
 
-### Edit the configuration file
+### 4.3 Edit the configuration file
 
 To customize Kumiko's behavior, you can modify the `config.json` file.
 
@@ -158,15 +158,15 @@ Example `config.json`:
 
 Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` value is provided.
 
-###Git authentication
+### 4.4 Git authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
-## Manage Team Members
+## 5 Manage Team Members
 
 If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts from specific resources or folders.
 
-### Add team members
+### 5.1 Add team members
 
 To add Team members, click on the `team` page on the sidebar and follow the steps shown in this video
 
