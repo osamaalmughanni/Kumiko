@@ -25,9 +25,9 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 Enter your email to verify your identity. After logging in, check your email for a verification code. Remember to check your junk mail folder if you don't recieve the email. The code will expire after 10 minutes. Enter or paste the code to access your account.
 
-## 3 Publish your first script
+# 3 Publish your first script
 
-### 3.1 Understand Kumiko's folder structure
+## 3.1 Understand Kumiko's folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -47,7 +47,7 @@ This is an example on how you can organise your Dynamo scripts inside the root d
         └── 📄 script.dyn
 ```
 
-#### • 3.1.2 Playlists
+### • 3.1.2 Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially:
 
@@ -64,7 +64,7 @@ You can also include multiple scripts within a folder if you want to run them se
         └── 📄 generateViews.dyn
 ```
 
-#### • 3.1.3 Script documentation
+### • 3.1.3 Script documentation
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -102,13 +102,9 @@ This is an example of how such a file might look like.
 }
 ```
 
-
-### 3.2 Publish your scripts
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
 ## 4 Connecting to your remote Git repository
 
-### 4.1 Edit configuration file
+## 4.1 Edit configuration file
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
@@ -131,13 +127,13 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 }
 ```
 
-### 4.2 Add Git credentials
+## 4.2 Add Git credentials
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
-### 4.3 Sync your scripts
+## 4.3 Sync your scripts
 
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
