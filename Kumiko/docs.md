@@ -116,7 +116,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
-## 5 — Connecting to Git repository
+## 5 — Connect to Git repository
 
 If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This enables easy access to your work, facilitates collaboration with other contributors during development, and allows you to track any modifications made.
 
