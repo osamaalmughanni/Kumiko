@@ -132,26 +132,17 @@ To install the latest version of Git on Windows, follow these steps:
 4. Follow the installation instructions, keeping the default settings unless you have specific preferences.
 5. Complete the installation.
 
-After installing Git, you can proceed with configuring Kumiko to connect to your remote Git repository.
-
 ### 5.2 Edit the configuration file
 
-Kumiko has a `config.json` file to store various settings and preferences. By modifying this file, you can customize Kumiko's behavior according to your requirements.
+To customize Kumiko's behavior, you can modify the `config.json` file. To do so, follow these steps:
 
-To enable automatic content pushing during synchronization, you need to make some changes inside `config.json`. Specifically, you will insert the URL of your Git repository as the value for the `gitUrl` key.
+1. Close Kumiko.
+2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
+3. Open the file in a text editor.
+4. Find the `gitUrl` key and replace its value with the URL of your Git repository.
+5. Save the changes.
 
-Follow the steps below to edit the configuration file and enable automatic content pushing:
-
-1. Close Kumiko to ensure that any modifications can take effect.
-2. Locate the config.json file in the following directory:
-
-```
-%LOCALAPPDATA%\Kumiko
-```
-
-3. Open the config.json file using a text editor of your choice.
-
-Inside the `config.json` file, you will find a JSON structure containing various settings that you can customize. Look for the `gitUrl` key and insert the URL of your Git repository as its value. Here's an example:
+Example `config.json`:
 
 ```json
 {
@@ -165,7 +156,7 @@ Inside the `config.json` file, you will find a JSON structure containing various
 }
 ```
 
-Once you have made the necessary changes, save the `config.json` file. Now, when you synchronize your content using Kumiko, it will automatically push the changes to the specified Git repository if the `gitUrl` value is provided.
+Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` is provided.
 
 ### 5.3 Git authentication
 
