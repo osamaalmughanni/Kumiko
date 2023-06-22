@@ -27,7 +27,7 @@ Enter your email to verify your identity. After logging in, check your email for
 
 ## 3 Publish your first script
 
-### 3.1 Understand Kumiko's folder hirachy
+### 3.1 Understand Kumiko's folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -35,7 +35,6 @@ By default, the recommended location for storing your Dynamo scripts is located 
 ```
 
 Dynamo scripts are organised inside folders. The folder name describes basically what the script does, while the file name itself isn't as relevant.
-
 This is an example on how you can organise your Dynamo scripts inside the root directory:
 
 ```
@@ -48,7 +47,7 @@ This is an example on how you can organise your Dynamo scripts inside the root d
         └── 📄 script.dyn
 ```
 
-#### 3.1.2 Playlists
+#### • 3.1.2 Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially:
 
@@ -65,7 +64,7 @@ You can also include multiple scripts within a folder if you want to run them se
         └── 📄 generateViews.dyn
 ```
 
-#### 3.1.3 script.json
+#### • 3.1.3 Script documentation
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -85,7 +84,7 @@ Additionally, you can include a `script.json` file to provide additional informa
       └── 📄 script.json
 ```
 
-The current JSON schema is as follows:
+This is an example of how such a file might look like.
 
 ```json
 {
