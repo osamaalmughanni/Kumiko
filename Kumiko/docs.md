@@ -176,7 +176,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
 A: The purpose of this project is to create a user-friendly interface for managing tasks efficiently.
@@ -198,3 +198,7 @@ A: Absolutely! Contributions are welcome. Please fork the repository, make your 
 A: If you encounter any issues or have suggestions for new features, please open an issue on the GitHub repository. We appreciate your feedback!
 
 ---
+
+## License
+
+This project is released under [EULA](/eula).
