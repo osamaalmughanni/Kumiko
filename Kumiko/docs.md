@@ -13,17 +13,17 @@ The app is designed to operate exclusively on Windows-based computers. It is dev
 
 # Getting Started
 
-## • Get the latest version
+## • 1 Get the latest version
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
-## • Verify your identity
+## • 2 Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-## 3 Organise your scripts
+## • 3 Organise your scripts
 
 ### 3.1 Kumiko's folder structure
 
