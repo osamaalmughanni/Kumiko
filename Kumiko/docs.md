@@ -154,7 +154,7 @@ Here is a brief explanation for each setting:
 
 ## 4.2 Git authentication
 
-When working with Git, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository. This authentication step ensures the proper functioning and synchronization of data between Kumiko and your repository.
+When working with Git, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
