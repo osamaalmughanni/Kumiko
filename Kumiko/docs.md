@@ -64,7 +64,7 @@ You can also include multiple scripts within a folder if you want to run them se
         └── 📄 generateViews.dyn
 ```
 
-### 3.1.2 Documentation
+### 3.1.2 Script Documentation
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -102,14 +102,18 @@ This is an example of how such a file might look like.
 }
 ```
 
+### 3.1.3 Sync your scripts
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
 # 4 Connecting to your remote Git repository
 
 ## 4.1 Customize Kumiko's Behavior
 
-To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the config.json file. Follow the steps below to edit the configuration file:
+To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the `config.json` file. Follow the steps below to edit the configuration file:
 
 1. Close Kumiko to ensure that any modifications can take effect.
-2. Locate the config.json file in the following directory:
+2. Locate the `config.json` file in the following directory:
 
 ```
 %LOCALAPPDATA%\Kumiko
@@ -131,9 +135,11 @@ Inside the config.json file, you will find various settings that you can customi
 }
 ```
 
+Here is a brief explanation for each setting:
+
 **rootDirectory**: Specifies the root directory where Kumiko will store its files and data. You can modify this path to a directory of your choice.
 
-**gitUrl**: Sets the URL of the Git repository that Kumiko will use for version control. You can change this to your own repository URL.
+**gitUrl**: Specifies the URL of the Git repository that Kumiko will sync with. You can change this setting to sync Kumiko with your Git repository.
 
 **windowWidth** and **windowHeight**: Determine the dimensions of Kumiko's application window. You can adjust these values to suit your screen size and personal preference.
 
