@@ -34,7 +34,7 @@ By default, the recommended location for storing your Dynamo scripts is located 
 %USERPROFILE%\Kumiko
 ```
 
-Dynamo scripts are organised inside folders. The folder name describes basically what the script does, while the .dyn file name isn't relevant.
+Dynamo scripts are organised inside folders. The folder name describes basically what the script does, while the file name itself isn't as relevant.
 
 This is an example on how you can organise your Dynamo scripts inside the root directory:
 
@@ -48,7 +48,9 @@ This is an example on how you can organise your Dynamo scripts inside the root d
         └── 📄 script.dyn
 ```
 
-You can also add multiple scripts inside a folder, if you want to run them in a sequence.
+#### 3.1.2 Playlists
+
+You can also include multiple scripts within a folder if you want to run them sequentially:
 
 ```
 - 📁 Kumiko
@@ -63,27 +65,9 @@ You can also add multiple scripts inside a folder, if you want to run them in a 
         └── 📄 generateViews.dyn
 ```
 
-Additionaly, you can add a `script.json` file and provide more information about the script.
+#### 3.1.3 script.json
 
-The current JSON scheme is as following:
-
-```json
-{
-   "title":"Export data as .xlsx",
-   "description":"Export an active open schedule with element IDs from Revit to Excel, facilitating data analysis and manipulation outside of Revit.",
-   "author":"Osama Almughanni",
-   "compatibility":"Revit 2022-2023",
-   "dependencies":[
-      "Clockwork",
-      "BimorphNodes"
-   ],
-   "documentation":"https://example.com/script-documentation",
-   "video":"https://www.youtube.com/watch?v=Nd6U2KgHI6k",
-   "notes":"Please ensure you have the required packages installed: Clockwork and BimorphNodes."
-}
-```
-
-This is how the root directory will look like:
+Additionally, you can include a `script.json` file to provide additional information about the script.
 
 ```
 - 📁 Kumiko
@@ -101,7 +85,26 @@ This is how the root directory will look like:
       └── 📄 script.json
 ```
 
-### 3.2 Sync
+The current JSON schema is as follows:
+
+```json
+{
+   "title":"Export data as .xlsx",
+   "description":"Export an active open schedule with element IDs from Revit to Excel, facilitating data analysis and manipulation outside of Revit.",
+   "author":"Osama Almughanni",
+   "compatibility":"Revit 2022-2023",
+   "dependencies":[
+      "Clockwork",
+      "BimorphNodes"
+   ],
+   "documentation":"https://example.com/script-documentation",
+   "video":"https://www.youtube.com/watch?v=Nd6U2KgHI6k",
+   "notes":"Please ensure you have the required packages installed: Clockwork and BimorphNodes."
+}
+```
+
+
+### 3.2 Publish your scripts
 At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ## 4 Connecting to your remote Git repository
