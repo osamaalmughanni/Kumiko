@@ -13,17 +13,17 @@ The app is designed to operate exclusively on Windows-based computers. It is dev
 
 # Getting Started
 
-## 1 - Get the latest version
+## 1 — Get the latest version
 
 Download the latest version of Kumiko from [getkumiko.com](https://www.getkumiko.com), close all active Revit applications, and ensure that no Revit processes are running. Run the downloaded Kumiko.exe file and proceed with the verification process.
 
-## 2 - Verify your identity
+## 2 — Verify your identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-## 3 - Organise your scripts
+## 3 — Organise your scripts
 
 ### 3.1 Kumiko's folder structure
 
@@ -108,7 +108,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
-## 4 - Publish and run your scripts
+## 4 — Publish and run your scripts
 
 Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become visible and ready to be accessed or shared.
 
@@ -116,11 +116,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
-## 5 - Connecting to Git repository
+## 5 — Connecting to Git repository
 
 If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This enables easy access to your work, facilitates collaboration with other contributors during development, and allows you to track any modifications made.
 
-### 5.2 Install Git
+### 5.1 Install Git
 
 Kumiko requires Git to be installed in order to interact with your repository.
 
@@ -132,7 +132,7 @@ To install the latest version of Git on Windows, follow these steps:
 4. Follow the installation instructions, keeping the default settings unless you have specific preferences.
 5. Complete the installation.
 
-### 5.3 Edit the configuration file
+### 5.2 Edit the configuration file
 
 To customize Kumiko's behavior, you can modify the `config.json` file.
 
@@ -158,11 +158,11 @@ Example `config.json`:
 
 Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` value is provided.
 
-### 5.4 Git authentication
+### 5.3 Git authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
-## 6 - Manage Team Members
+## 6 — Manage Team Members
 
 If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts from specific resources or folders.
 
