@@ -201,4 +201,8 @@ A: If you encounter any issues or have suggestions for new features, please open
 
 ## License
 
-This project is released under [EULA](/eula).
+This project is released under the terms of the End-User License Agreement (EULA).
+
+Please carefully read and understand the terms and conditions outlined in the EULA before using or contributing to this project.
+
+You can find the full text of the EULA [here](https://getkumiko.com/eula).
