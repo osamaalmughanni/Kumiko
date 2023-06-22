@@ -32,6 +32,8 @@ By default, the recommended location for storing your Dynamo scripts is located 
 %USERPROFILE%\Kumiko
 ```
 
+*You can also navigate to the root folder by clicking on the Kumiko logo in the sidebar.*
+
 Dynamo scripts must be grouped within folders, with the folder name providing a description of the script's purpose. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
 
 ```
