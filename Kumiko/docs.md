@@ -15,7 +15,7 @@ The app is designed for Windows-based computers and is distributed as a single e
 
 ## 1 — Get the latest version
 
-Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version of Kumiko. Make sure to close all active Revit applications and ensure that no Revit processes are running. After downloading the Kumiko.exe file, run it and follow the verification process.
+Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version of Kumiko. Make sure to close all active Revit applications and ensure that no Revit processes are running. After downloading the `Kumiko.exe` file, run it and follow the verification process.
 
 ## 2 — Verify your identity
 
@@ -37,7 +37,7 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
 
 ```
 - 📁 Kumiko
-  ├── 📁 Extract Room Areas
+  ├── 📁 Export Room Areas
   │     └── 📄 script.dyn
   ├── 📁 Create Floor Plans
   │     └── 📄 script.dyn
@@ -51,8 +51,8 @@ You can also include multiple scripts within a folder if you want to run them se
 
 ```
 - 📁 Kumiko
-  ├── 📁 Extract Room Areas
-  │     ├── 📄 01-updateValues.dyn
+  ├── 📁 Export Room Areas
+  │     ├── 📄 01-removeUnplaced.dyn
   │     └── 📄 02-saveToExcel.dyn
   ├── 📁 Create Floor Plans
   │     ├── 📄 01-renameViews.dyn
@@ -62,7 +62,7 @@ You can also include multiple scripts within a folder if you want to run them se
         └── 📄 02-generateViews.dyn
 ```
 
-When running multiple scripts, the execution order will be influenced by their alphabetical order. So, make sure to keep that in mind while organizing your scripts.
+When running multiple scripts, the execution order will depend on the alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
 ### 3.3 Document your script (Optional)
 
@@ -70,8 +70,8 @@ Additionally, you can include a `script.json` file to provide additional informa
 
 ```
 - 📁 Kumiko
-  ├── 📁 Extract Room Areas
-  │   ├── 📄 01-updateValues.dyn
+  ├── 📁 Export Room Areas
+  │   ├── 📄 01-removeUnplaced.dyn
   │   ├── 📄 02-saveToExcel.dyn
   │   └── 📝 script.json
   ├── 📁 Create Floor Plans
@@ -84,12 +84,12 @@ Additionally, you can include a `script.json` file to provide additional informa
       └── 📝 script.json
 ```
 
-Here is a sample representation of the `script.json` file:
+Here is a sample content of the `script.json` file:
 
 ```json
 {
-   "title":"Export data as .xlsx",
-   "description":"Export an active open schedule with element IDs from Revit to Excel, facilitating data analysis and manipulation outside of Revit.",
+   "title":"Export Room Areas",
+   "description":"Removes all unplaced rooms and saves all rooms areas to an excel file.",
    "author":"John Doe",
    "compatibility":"Revit 2022-2023",
    "dependencies":[
