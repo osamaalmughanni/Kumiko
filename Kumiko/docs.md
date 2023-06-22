@@ -158,7 +158,7 @@ When working with Git, you may be prompted to authenticate your Git credentials.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-*video_caption*
+*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
 # 5 Collaboration
 
