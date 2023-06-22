@@ -71,16 +71,16 @@ Additionally, you can include a `script.json` file to provide additional informa
 ```
 - 📁 Kumiko
   ├── 📁 Extract Room Areas
-  │   ├── 📄 updateValues.dyn
-  │   ├── 📄 saveToExcel.dyn
+  │   ├── 📄 01-updateValues.dyn
+  │   ├── 📄 02-saveToExcel.dyn
   │   └── 📄 script.json
   ├── 📁 Create Floor Plans
-  │   ├── 📄 renameViews.dyn
-  │   ├── 📄 createFloorPlans.dyn
+  │   ├── 📄 01-renameViews.dyn
+  │   ├── 📄 02-createFloorPlans.dyn
   │   └── 📄 script.json
   └── 📁 Generate 3D Views
-      ├── 📄 adaptBoundingBox.dyn
-      ├── 📄 generateViews.dyn
+      ├── 📄 01-adaptBoundingBox.dyn
+      ├── 📄 02-generateViews.dyn
       └── 📄 script.json
 ```
 
