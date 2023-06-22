@@ -23,6 +23,8 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
+---
+
 ## 3 Organise your scripts
 
 ### 3.1 Kumiko's folder structure
@@ -116,7 +118,9 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
-## 5 Connecting to Git repository (Optional)
+---
+
+## 5 Connecting to Git repository
 
 If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This enables easy access to your work, facilitates collaboration with other contributors during development, and allows you to track any modifications made.
 
@@ -134,7 +138,7 @@ To install the latest version of Git on Windows, follow these steps:
 
 ### 5.2 Edit the configuration file
 
-To customize Kumiko's behavior, you can modify the `config.json` file. Follow these steps:
+To customize Kumiko's behavior, you can modify the `config.json` file.
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
@@ -146,8 +150,8 @@ Example `config.json`:
 
 ```json
 {
-  "rootDirectory": "C:\\Users\\[username]\\Kumiko",
-  "gitUrl": "https://github.com/[username]/[repo].git",
+  "rootDirectory": "C:\\Users\\John\\Kumiko",
+  "gitUrl": "https://github.com/johndoe/dynamo.git",
   "windowWidth": 380.0,
   "windowHeight": 990.0,
   "windowTopPosition": 247.0,
@@ -156,13 +160,17 @@ Example `config.json`:
 }
 ```
 
-Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` is provided.
+Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` value is provided.
 
 ### 5.3 Git authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
+---
+
 ## 6 Manage Team Members
+
+If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant selective Members the ability to execute specific scripts from designated folders.
 
 ### 6.1 Add team members
 
