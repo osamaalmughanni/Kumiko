@@ -7,7 +7,7 @@ The app is designed for Windows-based computers and is distributed as a single e
 - Operating System: Windows 10 or newer
 - .NET Framework: Version 4.7.2 or newer
 - Revit: Version 2013.1 or newer
-- git (optional)
+- Git (Optional)
 
 ---
 
