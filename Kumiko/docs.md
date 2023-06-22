@@ -23,7 +23,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
----
+
+
+
+
+
 
 ## 3 Organise your scripts
 
@@ -118,7 +122,10 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
----
+
+
+
+
 
 ## 5 Connecting to Git repository
 
@@ -166,11 +173,12 @@ Now, Kumiko will automatically push content changes to the specified Git reposit
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
----
+
+
 
 ## 6 Manage Team Members
 
-If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant selective Members the ability to execute specific scripts from designated folders.
+If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant selective Members the ability to execute specific scripts from specific resources or folders.
 
 ### 6.1 Add team members
 
@@ -180,7 +188,9 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
----
+
+
+
 
 # Frequently Asked Questions
 
