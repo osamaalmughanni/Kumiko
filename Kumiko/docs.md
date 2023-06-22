@@ -84,7 +84,7 @@ Additionally, you can include a `script.json` file to provide additional informa
       └── 📝 script.json
 ```
 
-This is an example of how such a file might look like.
+Here is a sample representation of a file:
 
 ```json
 {
@@ -102,7 +102,7 @@ This is an example of how such a file might look like.
 }
 ```
 
-The json content will be then visualised as badges inside the script.
+The content in JSON format will be displayed as badges within the script.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
@@ -110,7 +110,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 4 Publish your scripts
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become visible and ready to be accessed or shared.
 
 ### 4.1 Run your first script
 
