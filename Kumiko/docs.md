@@ -34,53 +34,40 @@ By default, the recommended location for storing your Dynamo scripts is located 
 %USERPROFILE%\Kumiko
 ```
 
-Dynamo scripts are organised inside folders. The folder name describes basically what the script does, while the .dyn file name isn't as relevant.
+Dynamo scripts are organised inside folders. The folder name describes basically what the script does, while the .dyn file name isn't relevant.
 
 This is an example on how you can organise your Dynamo scripts inside the root directory:
 
 ```
-- 📁 Extract Room Areas
-  └── 📄 script.dyn
-- 📁 Create Floor Plans
-  └── 📄 script.dyn
-- 📁 Generate 3D Views
-  └── 📄 script.dyn
+- 📁 Kumiko
+  ├── 📁 Extract Room Areas
+  │     └── 📄 script.dyn
+  ├── 📁 Create Floor Plans
+  │     └── 📄 script.dyn
+  └── 📁 Generate 3D Views
+        └── 📄 script.dyn
 ```
 
 You can also add multiple scripts inside a folder, if you want to run them in a sequence.
 
 ```
-- 📁 Extract Room Areas
-  ├── 📄 updateValues.dyn
-  └── 📄 saveToExcel.dyn
-- 📁 Create Floor Plans
-  ├── 📄 renameViews.dyn
-  └── 📄 createFloorPlans.dyn
-- 📁 Generate 3D Views
-  ├── 📄 adaptBoundingBox.dyn
-  └── 📄 generateViews.dyn
+- 📁 Kumiko
+  ├── 📁 Extract Room Areas
+  │     ├── 📄 updateValues.dyn
+  │     └── 📄 saveToExcel.dyn
+  ├── 📁 Create Floor Plans
+  │     ├── 📄 renameViews.dyn
+  │     └── 📄 createFloorPlans.dyn
+  └── 📁 Generate 3D Views
+        ├── 📄 adaptBoundingBox.dyn
+        └── 📄 generateViews.dyn
 ```
 
 Additionaly, you can add a `script.json` file and provide more information about the script.
 
-```
-- 📁 Extract Room Areas
-  ├── 📄 updateValues.dyn
-  ├── 📄 saveToExcel.dyn
-  └── 📄 script.json
-- 📁 Create Floor Plans
-  ├── 📄 renameViews.dyn
-  ├── 📄 createFloorPlans.dyn
-  └── 📄 script.json
-- 📁 Generate 3D Views
-  ├── 📄 adaptBoundingBox.dyn
-  ├── 📄 generateViews.dyn
-  └── 📄 script.json
-```
-
 The current JSON scheme is as following:
 
-```
+```json
 {
    "title":"Export data as .xlsx",
    "description":"Export an active open schedule with element IDs from Revit to Excel, facilitating data analysis and manipulation outside of Revit.",
@@ -94,6 +81,24 @@ The current JSON scheme is as following:
    "video":"https://www.youtube.com/watch?v=Nd6U2KgHI6k",
    "notes":"Please ensure you have the required packages installed: Clockwork and BimorphNodes."
 }
+```
+
+This is how the root directory will look like:
+
+```
+- 📁 Kumiko
+  ├── 📁 Extract Room Areas
+  │   ├── 📄 updateValues.dyn
+  │   ├── 📄 saveToExcel.dyn
+  │   └── 📄 script.json
+  ├── 📁 Create Floor Plans
+  │   ├── 📄 renameViews.dyn
+  │   ├── 📄 createFloorPlans.dyn
+  │   └── 📄 script.json
+  └── 📁 Generate 3D Views
+      ├── 📄 adaptBoundingBox.dyn
+      ├── 📄 generateViews.dyn
+      └── 📄 script.json
 ```
 
 ### 3.2 Sync
