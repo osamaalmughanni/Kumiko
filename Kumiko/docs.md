@@ -36,7 +36,7 @@ By default, the recommended location for storing your Dynamo scripts is located 
 Dynamo scripts must be grouped within folders, with the folder name providing a description of the script's purpose. Here's an illustrative example of how you can organize your Dynamo scripts within the root directory.
 
 ```
-- 📁 Kumiko
+  📁 Kumiko
   ├── 📁 Extract Room Areas
   │     └── 📄 script.dyn
   ├── 📁 Create Floor Plans
@@ -50,7 +50,7 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
 You can also include multiple scripts within a folder if you want to run them sequentially:
 
 ```
-- 📁 Kumiko
+  📁 Kumiko
   ├── 📁 Extract Room Areas
   │     ├── 📄 01-updateValues.dyn
   │     └── 📄 02-saveToExcel.dyn
@@ -69,19 +69,19 @@ When running multiple scripts within a folder, their execution order will be inf
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
 ```diff
-- 📁 Kumiko
+  📁 Kumiko
   ├── 📁 Extract Room Areas
   │   ├── 📄 01-updateValues.dyn
   │   ├── 📄 02-saveToExcel.dyn
-  │   └── 📄 !script.json
+! │   └── 📄 script.json
   ├── 📁 Create Floor Plans
   │   ├── 📄 01-renameViews.dyn
   │   ├── 📄 02-createFloorPlans.dyn
-  │   └── 📄 !script.json
+! │   └── 📄 script.json
   └── 📁 Generate 3D Views
       ├── 📄 01-adaptBoundingBox.dyn
       ├── 📄 02-generateViews.dyn
-      └── 📄 !script.json
+!     └── 📄 !script.json
 ```
 
 This is an example of how such a file might look like.
