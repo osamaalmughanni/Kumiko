@@ -118,7 +118,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 5 — Connect to Git repository
 
-If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This enables easy access to your work, facilitates collaboration with other contributors during development, and allows you to track any modifications made.
+Syncing your content with a remote Git repository offers several advantages. It provides convenient access to your work, promotes collaboration with fellow contributors, and enables efficient tracking of modifications.
 
 ### 5.1 Install Git
 
