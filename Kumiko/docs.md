@@ -134,7 +134,7 @@ To install the latest version of Git on Windows, follow these steps:
 
 ### 5.2 Edit the configuration file
 
-To customize Kumiko's behavior, you can modify the `config.json` file. To do so, follow these steps:
+To customize Kumiko's behavior, you can modify the `config.json` file. Follow these steps:
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
