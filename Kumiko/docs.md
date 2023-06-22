@@ -116,11 +116,11 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
-## 4.1 Connecting to Git repository
+## 5 Connecting to Git repository
 
 If you find yourself working from multiple workstations, it can be beneficial to keep your content synced with a remote repository. This enables easy access to your work, facilitates collaboration with other contributors during development, and allows you to track any modifications made.
 
-### 4.2 Install Git
+### 5.2 Install Git
 
 Kumiko requires Git to be installed in order to interact with your repository.
 
@@ -132,7 +132,7 @@ To install the latest version of Git on Windows, follow these steps:
 4. Follow the installation instructions, keeping the default settings unless you have specific preferences.
 5. Complete the installation.
 
-### 4.3 Edit the configuration file
+### 5.3 Edit the configuration file
 
 To customize Kumiko's behavior, you can modify the `config.json` file.
 
@@ -158,15 +158,15 @@ Example `config.json`:
 
 Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` value is provided.
 
-### 4.4 Git authentication
+### 5.4 Git authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
-## 5 - Manage Team Members
+## 6 - Manage Team Members
 
 If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts from specific resources or folders.
 
-### 5.1 Add team members
+### 6.1 Add team members
 
 To add Team members, click on the `team` page on the sidebar and follow the steps shown in this video
 
