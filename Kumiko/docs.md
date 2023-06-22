@@ -108,9 +108,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # 4 Connecting to your remote Git repository
 
-## 4.1 Configurate
+## 4.1 Edit the configuration file
 
-To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the `config.json` file. Follow the steps below to edit the configuration file:
+To personalize Kumiko's behavior and adapt it to your specific needs and preferences, you can make changes to the `config.json` file.
 
 1. Close Kumiko to ensure that any modifications can take effect.
 2. Locate the `config.json` file in the following directory:
@@ -147,11 +147,11 @@ Here is a brief explanation for each setting:
 
 **windowTopMost**: A boolean value that determines whether Kumiko's window will always stay on top of other windows. Set it to `true` if you want Kumiko's window to be topmost; otherwise, set it to `false`.
 
-## 4.2 Add Git credentials
+## 4.2 Git authentication
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita `config.json` gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+When working with Git, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository. This authentication step ensures the proper functioning and synchronization of data between Kumiko and your repository.
 
 # 5 Collaboration
 
