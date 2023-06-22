@@ -162,15 +162,15 @@ Now, Kumiko will automatically push content changes to the specified Git reposit
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
+## 6 Manage Team Members
+
+### 6.1 Add team members
+
+To add Team members, click on the `team` page on the sidebar and follow the steps shown in this video
+
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
-
-## 6 Manage Team Members
-You can give access to other members 
-
-### 6.1 Add team members
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
 ---
 
