@@ -23,9 +23,9 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 First, enter your email to verify your identity. After logging in, check your email for the verification code. Remember to check your junk mail folder if you don't recieve any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-# 3 Add your first scripts
+# 3 Publish your scripts
 
-## 3.1 Kumiko's folder structure
+## 3.1 Understand Kumiko's folder structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
