@@ -2,12 +2,12 @@
 Kumiko is similar to the traditional Dynamo Player, as it enables you to execute your Dynamo scripts within Revit files. However, it goes beyond standard functionalities by offering enhanced portability, collaboration based on Git, and seamless script sharing among team members.
 
 ## Requirements
-The app is designed to operate exclusively on Windows-based computers. It is developed as a single executable (exe) file, meaning that it encompasses all the necessary code and resources for execution. However, there are some key requirements that should be considered, these are:
+The app is designed for Windows-based computers and is distributed as a single executable (exe) file. Here are the key requirements:
 
-- Windows 10 or greater
-- .NET Framework 4.7.2 or greater
-- Revit 2013.1 or greater
-- git (Optional)
+- Operating System: Windows 10 or newer
+- .NET Framework: Version 4.7.2 or newer
+- Revit: Version 2013.1 or newer
+- git (optional)
 
 ---
 
