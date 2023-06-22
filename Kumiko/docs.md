@@ -73,15 +73,15 @@ Additionally, you can include a `script.json` file to provide additional informa
   ├── 📁 Extract Room Areas
   │   ├── 📄 01-updateValues.dyn
   │   ├── 📄 02-saveToExcel.dyn
-  │   └── 📄 `script.json`
+  │   └── 📄 <span style="color: blue;">script.json<span style="color: blue;">
   ├── 📁 Create Floor Plans
   │   ├── 📄 01-renameViews.dyn
   │   ├── 📄 02-createFloorPlans.dyn
-  │   └── 📄 `script.json`
+  │   └── 📄 script.json
   └── 📁 Generate 3D Views
       ├── 📄 01-adaptBoundingBox.dyn
       ├── 📄 02-generateViews.dyn
-      └── 📄 `script.json`
+      └── 📄 script.json
 ```
 
 This is an example of how such a file might look like.
