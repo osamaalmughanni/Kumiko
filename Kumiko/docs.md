@@ -179,7 +179,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 ## Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
-A: Kumiko is a passion project developed by Osama Almughanni. Its main purpose is to simplify the process of developing, sharing, and version-controlling Dynamo scripts.
+A: Kumiko's main purpose is to simplify the process of developing, sharing, and version-controlling Dynamo scripts.
 
 ### Q: Can I use Kumiko for free?
 A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, you won't be able to add team members or share scripts without a paid subscription.
