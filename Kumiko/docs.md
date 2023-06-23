@@ -122,19 +122,17 @@ Syncing your content with a remote Git repository offers several advantages. It 
 
 ### 5.1 Install Git
 
-Kumiko requires Git to be installed in order to interact with your repository.
+In order to interact with your repository, it is necessary to have Git installed. Here are the steps to install the latest version of Git on Windows:
 
-To install the latest version of Git on Windows, follow these steps:
-
-1. Visit the official Git website: [https://git-scm.com/downloads](https://git-scm.com/downloads).
+1. Visit the official Git website: https://git-scm.com/downloads.
 2. Download the installer for Windows.
 3. Run the downloaded installer.
-4. Follow the installation instructions, keeping the default settings unless you have specific preferences.
-5. Complete the installation.
+4. Follow the installation instructions, sticking to the default settings unless you have specific preferences.
+5. Complete the installation process.
 
 ### 5.2 Edit the configuration file
 
-To customize Kumiko's behavior, you can modify the `config.json` file.
+To customize Kumiko's behavior, you can make changes to the `config.json` file. Here's what you need to do:
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
