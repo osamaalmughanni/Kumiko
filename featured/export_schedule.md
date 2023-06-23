@@ -30,9 +30,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-Osama Almughanni [@DomPizzie](https://twitter.com/dompizzie)
+- Osama Almughanni [@osamaalmughanni](https://www.linkedin.com/in/osamaalmughanni/)
 
 ## License
 
