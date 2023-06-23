@@ -185,7 +185,7 @@ A: Kumiko is a passion project developed by Osama Almughanni. Its main purpose i
 A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, you won't be able to add team members or share scripts without a paid subscription.
 
 ### Q: Does Kumiko detect uninstalled Dynamo packages?
-A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, the tool does not automatically install the missing packages. We are working on implementing auto-detection and auto-installation in the future.
+A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, the tool does not automatically install the missing packages. We are working on implementing auto-installation options in the future.
 
 ### Q: Does Kumiko detect input nodes?
 A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not currently supported. 
