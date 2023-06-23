@@ -6,14 +6,14 @@ Takimata sanctus est Lorem ipsum dolor sit amet.
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-## Getting Started
+## Execution
 
 ### Limitations
 
 - How to run the program
 - Step-by-step bullets
 
-### Executing script
+### Workflow
 
 https://github.com/osamaalmughanni/Kumiko/assets/49910802/cd16cc88-f223-41d2-bc79-344c933b1a40
 
