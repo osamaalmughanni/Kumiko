@@ -15,7 +15,7 @@ The app is designed for Windows-based computers and is distributed as a single e
 
 ## 1 — Get the latest version
 
-Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version of Kumiko. Make sure to close all active Revit applications and ensure that no Revit processes are running. After downloading the `Kumiko.exe` file, run it and follow the verification process.
+Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version of app. Make sure to close all active Revit applications and ensure that no Revit processes are running. After downloading the `Kumiko.exe` file, run it and follow the verification process.
 
 ## 2 — Verify your identity
 
