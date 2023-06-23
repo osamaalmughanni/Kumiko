@@ -179,14 +179,13 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 ## Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
-A: The purpose of this project is to create a user-friendly interface for managing tasks efficiently.
+A: Kumiko is a passion project by Osama Almughanni. It was Originally developed for personal use, then made public for wider creative collaboration opportunities.
 
-### Q: How can I install and run this project locally?
-A: To install and run this project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
+### Q: Does Kumiko detect uninstalled Dynamo packages?
+A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, at present, the tool does not automatically install the missing packages. We are working on implementing auto-detection and auto-installation in the future.
+
+### Q: Does Kumiko detect input nodes?
+A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not currently supported. 
 
 ### Q: Are there any prerequisites to using this project?
 A: Yes, there are a few prerequisites for using this project. You need to have Node.js and npm installed on your system. You can download them from the official Node.js website: [https://nodejs.org](https://nodejs.org)
