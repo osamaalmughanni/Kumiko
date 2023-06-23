@@ -132,7 +132,7 @@ In order to interact with your repository, it is necessary to have Git installed
 
 ### 5.2 Edit the configuration file
 
-To customize Kumiko's behavior, you can make changes to the `config.json` file. Here's what you need to do:
+To add the `gitUrl` and customize Kumiko's behavior, you can modify the `config.json` file. Here are the steps to make the necessary changes:
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
