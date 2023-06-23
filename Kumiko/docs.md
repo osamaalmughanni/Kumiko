@@ -179,7 +179,10 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 ## Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
-A: Kumiko is a passion project by Osama Almughanni. It was Originally developed for personal use, then made public for wider creative collaboration opportunities.
+A: Kumiko is a passion project developed by Osama Almughanni. Its main purpose is to simplify the process of developing, sharing, and version-controlling Dynamo scripts.
+
+### Q: Can I use Kumiko for free?
+A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, you won't be able to add team members or share scripts without a paid subscription.
 
 ### Q: Does Kumiko detect uninstalled Dynamo packages?
 A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, at present, the tool does not automatically install the missing packages. We are working on implementing auto-detection and auto-installation in the future.
@@ -187,14 +190,8 @@ A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, at
 ### Q: Does Kumiko detect input nodes?
 A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not currently supported. 
 
-### Q: Are there any prerequisites to using this project?
-A: Yes, there are a few prerequisites for using this project. You need to have Node.js and npm installed on your system. You can download them from the official Node.js website: [https://nodejs.org](https://nodejs.org)
-
-### Q: Can I contribute to this project?
-A: Absolutely! Contributions are welcome. Please fork the repository, make your changes, and submit a pull request. Don't forget to follow our contribution guidelines.
-
 ### Q: How can I report an issue or suggest a new feature?
-A: If you encounter any issues or have suggestions for new features, please open an issue on the GitHub repository. We appreciate your feedback!
+A: We currently do not have a platform to manage different requests, so please send us an email at mail@getkumiko.com, and we will be glad to help.
 
 ---
 
