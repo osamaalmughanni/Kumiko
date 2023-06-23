@@ -8,6 +8,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Getting Started
 
+### Limitations
+
+- How to run the program
+- Step-by-step bullets
+
 ### Executing script
 
 * How to run the program
