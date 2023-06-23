@@ -188,7 +188,7 @@ A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, y
 A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, the tool does not automatically install the missing packages. We are working on implementing auto-installation options in the future.
 
 ### Q: Does Kumiko detect input nodes?
-A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not currently supported. 
+A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not yet supported.
 
 ### Q: How can I report an issue or suggest a new feature?
 A: We currently do not have a platform to manage different requests, so please send us an email at mail@getkumiko.com, and we will be glad to help.
