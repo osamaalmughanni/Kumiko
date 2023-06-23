@@ -201,4 +201,4 @@ This project is released under the terms of the End-User License Agreement (EULA
 
 Please carefully read and understand the terms and conditions outlined in the EULA before using the app.
 
-You can find the full text of the EULA <a href="https://getkumiko.com/eula" target="_blank">Here</a>.
+You can find the full text of the EULA <a href="https://getkumiko.com/eula" target="_blank">here</a>.
