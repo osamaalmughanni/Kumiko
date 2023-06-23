@@ -97,7 +97,6 @@ Here is a sample content of the `script.json` file:
       "BimorphNodes"
    ],
    "documentation":"https://github.com/johndoe/dynamo/blob/main/scripts/export_room_areas.md",
-   "video":"https://www.youtube.com/watch?v=Nd6U2KgHI6k",
    "notes":"Please ensure you have the required packages installed: Clockwork and BimorphNodes."
 }
 ```
