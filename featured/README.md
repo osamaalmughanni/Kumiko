@@ -1,1 +1,1 @@
-This repository contains comprehensive documentation for all the featured scripts within Kumiko.
+This folder contains the documentation for all the featured scripts within Kumiko.
