@@ -173,7 +173,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ### 6.2 Specify Resource
 
-You can allow users to access only specific resources from your content. 
+You can allow users to access only specific resources from your content by adding a main container folder
 
 ```
 - 📁 Kumiko
@@ -200,6 +200,10 @@ You can allow users to access only specific resources from your content.
 ## Featured Dynamo scripts
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+
+*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
 ---
 
