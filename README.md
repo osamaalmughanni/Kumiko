@@ -171,6 +171,30 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
+### 6.2 Specify Resource
+
+You can allow users to access only specific resources from your content. 
+
+```
+- 📁 Kumiko
+  ├── 📁 Project X
+  │     ├── 📁 Export Room Areas
+  │     │     ├── 📄 01-removeUnplaced.dyn
+  │     │     └── 📄 02-saveToExcel.dyn
+  │     ├── 📁 Create Floor Plans
+  │     │     ├── 📄 01-renameViews.dyn
+  │     │     └── 📄 02-createFloorPlans.dyn
+  │     └── 📁 Generate 3D Views
+  │           ├── 📄 01-adaptBoundingBox.dyn
+  │           └── 📄 02-generateViews.dyn
+  ├── 📁 Project Z
+  │     ├── .
+  │     └── .
+  └── 📁 Project B
+        ├── .
+        └── .
+```
+
 ---
 
 ## Featured Dynamo scripts
