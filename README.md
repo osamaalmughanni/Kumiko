@@ -113,7 +113,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 4 — Publish and run your scripts
 
-Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become visible and ready to be accessed or shared.
+Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become ready to be accessed or shared.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
