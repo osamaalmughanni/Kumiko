@@ -153,7 +153,7 @@ Example `config.json`:
 }
 ```
 
-Now, Kumiko will automatically push content changes to the specified Git repository during synchronization if the `gitUrl` value is provided.
+Now, Kumiko will automatically push content changes to the specified Git repository during synchronization after the `gitUrl` value is provided.
 
 ### 5.3 Git authentication
 
