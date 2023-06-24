@@ -169,11 +169,11 @@ If you are a BIM Manager within an organization or company, there might be a nee
 
 ### 6.1 Add Team Members to all Resources
 
-To add team members and share all your scripts, click on the "Team" page in the sidebar and follow the steps demonstrated in this video.
+To share all your scripts with specific team members, click on the "Team" page in the sidebar and follow the steps demonstrated in this video.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
+*Team members will not be able to view the content of your script; they will only be able to execute it.*
 
 ### 6.2 Add Team Members to Specific Resources
 
