@@ -163,7 +163,7 @@ When synchronizing, you may be prompted to authenticate your Git credentials. Ma
 
 If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts and live access your latest content.
 
-### 6.1 Add team members
+### 6.1 Add Team Members
 
 To add Team members, click on the `team` page on the sidebar and follow the steps shown in this video
 
@@ -171,13 +171,15 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
-### 6.2 Specify Resource
+### 6.2 Add Team Members to Specific Resources
 
-You can allow users to access only specific resources from your content by adding a main container folder
+To control which resources team members can access in your content, you can organize them using a structured approach. Start by creating a main folder for each project and put the relevant scripts inside. This way, you can assign team members to specific projects, allowing them access only to the resources within their assigned project.
+
+Here's an example that shows how you can organize your scripts based on projects:
 
 ```
 - 📁 Kumiko
-  ├── 📁 Project X
+  ├── 📁 Project A
   │     ├── 📁 Export Room Areas
   │     │     ├── 📄 01-removeUnplaced.dyn
   │     │     └── 📄 02-saveToExcel.dyn
@@ -187,13 +189,15 @@ You can allow users to access only specific resources from your content by addin
   │     └── 📁 Generate 3D Views
   │           ├── 📄 01-adaptBoundingBox.dyn
   │           └── 📄 02-generateViews.dyn
-  ├── 📁 Project Z
+  ├── 📁 Project B
   │     ├── .
   │     └── .
-  └── 📁 Project B
+  └── 📁 Project C
         ├── .
         └── .
 ```
+
+*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
 
 ---
 
