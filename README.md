@@ -201,10 +201,6 @@ You can allow users to access only specific resources from your content by addin
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
-
-*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
-
 ---
 
 ## Frequently Asked Questions
@@ -228,6 +224,4 @@ A: We currently do not have a platform to manage different requests, so please s
 
 ## License
 
-This project is released under the terms of the End-User License Agreement (EULA).
-Please carefully read and understand the terms and conditions outlined in the EULA before using the app.
-You can find the full text of the EULA <a href="https://getkumiko.com/eula" target="_blank">here</a>.
+This project is released under the terms of the End-User License Agreement (EULA). Please carefully read and understand the terms and conditions outlined in the EULA before using the app. You can find the full text of the EULA <a href="https://getkumiko.com/eula" target="_blank">here</a>.
