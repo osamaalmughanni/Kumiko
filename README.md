@@ -122,7 +122,8 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 ## 5 — Connect to Git repository (Optional)
 
 Connecting your content to a remote Git repository offers various benefits, including convenient access, collaboration with others, and efficient tracking of modifications.
-In order to interact with your repository, please follow these steps:
+
+To interact with your repository using Kumiko, please follow these steps:
 
 ### 5.1 Install Git
 
