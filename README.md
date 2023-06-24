@@ -201,11 +201,11 @@ Here's an example on how organize your scripts based on projects:
         └── .
 ```
 
-In this case, you can add a team member to the resource `Project A` and share only those scripts inside.
+In this case, you can add a team member to the resource `Project A` and share only the scripts within it.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*)
+You can also make the resource name more specific by using a forward slash. For example, you can name it as `Project A/Export Room Areas.`
 
 ---
 
