@@ -121,11 +121,10 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ## 5 — Connect to Git repository (Optional)
 
-Syncing your content with a remote Git repository offers several advantages. It provides convenient access to your work, promotes collaboration with fellow contributors, and enables efficient tracking of modifications.
+Connecting your content to a remote Git repository offers various benefits, including convenient access, collaboration with others, and efficient tracking of modifications.
+In order to interact with your repository, please follow these steps:
 
 ### 5.1 Install Git
-
-In order to interact with your repository, it is necessary to have Git installed. Here are the steps to install the latest version of Git on Windows:
 
 1. Visit the official Git website: https://git-scm.com/downloads.
 2. Download the installer for Windows.
@@ -134,8 +133,6 @@ In order to interact with your repository, it is necessary to have Git installed
 5. Complete the installation process.
 
 ### 5.2 Edit the configuration file
-
-To connect to a Git repository, you need to make changes to Kumiko's configuration file. Here are the steps to make the necessary changes:
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
