@@ -201,7 +201,7 @@ Here's an example on how organize your scripts based on projects:
         └── .
 ```
 
-In this case, you can add a team member to the resource `Project A` and share only the scripts within it.
+In this case, you can add a team member to the resource `Project A` and share only the scripts within that folder.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
