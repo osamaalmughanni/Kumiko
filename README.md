@@ -175,7 +175,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ### 6.2 Add Team Members to Specific Resources
 
-To control which resources team members can access, you must first organize your scripts using a more structured approach. Start by creating a main folder for each project and put the relevant scripts inside. This way, you can assign team members to specific projects, allowing them access only to the resources within their assigned project.
+To control which resources team members can access, you must first organize your scripts using a more structured approach. Start by creating a main folder for each project or category and put the relevant scripts inside. This way, you can assign team members to specific projects, allowing them access only to the resources within their assigned project.
 
 Here's an example on how organize your scripts based on projects:
 
@@ -203,7 +203,7 @@ In this case, you can add a team member to the resource `Project A` and share on
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-You can also make the resource name more specific by using a forward slash. For example: `Project A/Export Room Areas.`
+You can also be more specific by using a forward slash. For example: `Project A/Export Room Areas.`
 
 ---
 
