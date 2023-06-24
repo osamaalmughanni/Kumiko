@@ -1,6 +1,10 @@
 # What is Kumiko?
 Kumiko is similar to the traditional Dynamo Player, as it enables you to execute your Dynamo scripts within Revit files. However, it goes beyond standard functionalities by offering enhanced portability, Git-based collaboration, and seamless script sharing among team members.
 
+https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
+
+*You can also navigate to the root folder by clicking on the Kumiko logo in the sidebar.*
+
 ## Requirements
 The app is designed for Windows-based computers and is distributed as a single executable (exe) file. Here are the key requirements:
 
@@ -173,9 +177,9 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ### 6.2 Add Team Members to Specific Resources
 
-To control which resources team members can access in your content, you can organize them using a structured approach. Start by creating a main folder for each project and put the relevant scripts inside. This way, you can assign team members to specific projects, allowing them access only to the resources within their assigned project.
+To control which resources team members can access, you can organize your scripts using a more structured approach. Start by creating a main folder for each project and put the relevant scripts inside. This way, you can assign team members to specific projects, allowing them access only to the resources within their assigned project.
 
-Here's an example that shows how you can organize your scripts based on projects:
+Here's an example on how organize your scripts based on projects:
 
 ```
 - 📁 Kumiko
@@ -197,13 +201,15 @@ Here's an example that shows how you can organize your scripts based on projects
         └── .
 ```
 
-*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
+https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+
+*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*)
 
 ---
 
 ## Featured Dynamo scripts
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Some 
 
 ---
 
