@@ -105,11 +105,11 @@ Here is a sample content of the `script.json` file:
 }
 ```
 
-The content of the `script.json` file will be displayed as badges in the script card in Kumiko.
+The content of the `script.json` file will be displayed as badges inside Kumiko.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-*Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.*
+*The documentation badge is interactive and, when clicked, will redirect the user to the provided URL.*
 
 ## 4 — Publish and run your scripts
 
@@ -117,7 +117,7 @@ Once you have successfully organized all your scripts, you can make them accessi
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-*Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
+*After synchronizing your content, your scripts will be ready to execute within Revit. Simply hover the mouse over the script and click the Play button.*
 
 ## 5 — Connect to Git repository (Optional)
 
