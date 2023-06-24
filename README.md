@@ -3,8 +3,6 @@ Kumiko is similar to the traditional Dynamo Player, as it enables you to execute
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-*You can also navigate to the root folder by clicking on the Kumiko logo in the sidebar.*
-
 ## Requirements
 The app is designed for Windows-based computers and is distributed as a single executable (exe) file. Here are the key requirements:
 
