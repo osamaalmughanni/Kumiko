@@ -209,12 +209,6 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 ---
 
-## Featured Dynamo scripts
-
-Some 
-
----
-
 ## Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
