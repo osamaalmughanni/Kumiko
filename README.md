@@ -119,7 +119,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Sed diam voluptua. Eirmod tempor invidunt ut labore et dolore magna aliquyam erat*
 
-## 5 — Connect to Git repository
+## 5 — Connect to Git repository (Optional)
 
 Syncing your content with a remote Git repository offers several advantages. It provides convenient access to your work, promotes collaboration with fellow contributors, and enables efficient tracking of modifications.
 
