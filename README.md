@@ -167,9 +167,9 @@ When synchronizing, you may be prompted to authenticate your Git credentials. Ma
 
 If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts and live access your latest content.
 
-### 6.1 Add Team Members
+### 6.1 Add Team Members to all Resources
 
-To add Team members, click on the `team` page on the sidebar and follow the steps shown in this video
+To add Team members and share all your scripts with, click on the `team` page on the sidebar and follow the steps shown in this video
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
