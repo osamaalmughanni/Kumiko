@@ -25,7 +25,7 @@ Enter your email to verify your identity. Once logged in, please check your emai
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-*At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.*
+*Kumiko operates as a webview and is dependent on an internet connection for its functionality.*
 
 ---
 
