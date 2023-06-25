@@ -209,11 +209,6 @@ You can also be more specific by using a forward slash. For example: `Project A/
 
 ---
 
-## Contributing
-For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 ## Frequently Asked Questions
 
 ### Q: What is the purpose of this project?
@@ -230,6 +225,16 @@ A: Yes, Kumiko detects automatically input nodes and prompts the user to modify 
 
 ---
 
+## Contribution
+For major changes, please open an issue first to discuss what you would like to change.
+If you enjoy using Kumiko, consider making a <a href="https://liberapay.com/osamaalmughanni/donate" target="_blank">donation</a> or subscribing to our premium plans.
+
+Feel free to reach out to us at mail@getkumiko.com for any inquiries or feedback.
+
+---
+
 ## License
 
 This project is released under the terms of the End-User License Agreement (EULA). Please carefully read and understand the terms and conditions outlined in the EULA before using the app. You can find the full text of the EULA <a href="https://getkumiko.com/eula" target="_blank">here</a>.
+
+© 2023 Kumiko
