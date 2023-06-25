@@ -15,7 +15,7 @@ The app is designed for Windows-based computers and is distributed as a single e
 
 # Getting Started
 
-## 1 — Get the latest version
+## 1 — Get the Latest Version
 
 Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version of app. Make sure to close all active Revit applications and ensure that no Revit processes are running. After downloading the `Kumiko.exe` file, run it and follow the verification process.
 
@@ -25,9 +25,9 @@ https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-
 
 Enter your email to verify your identity. Once logged in, please check your email for the verification code. Remember to check your junk mail folder if you don't receive any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-## 3 — Organise your scripts
+## 3 — Organise Your Scripts
 
-### 3.1 Kumiko's folder structure
+### 3.1 Kumiko's Folder Structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -66,7 +66,7 @@ You can also include multiple scripts within a folder if you want to run them se
 
 When running multiple scripts, the execution order will depend on the alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
-### 3.3 Document your script (Optional)
+### 3.3 Document Your Scripts (Optional)
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -109,7 +109,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *The documentation badge is interactive and, when clicked, will redirect the user to the provided URL.*
 
-## 4 — Publish and run your scripts
+## 4 — Publish Your Scripts
 
 Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become ready to be accessed or shared.
 
@@ -117,7 +117,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *After synchronizing your content, your scripts will be ready to execute within Revit. Simply hover the mouse over the script and click the Play button.*
 
-## 5 — Connect to Git repository (Optional)
+## 5 — Connect to Repository (Optional)
 
 Connecting your content to a remote Git repository offers various benefits, including convenient access, collaboration with others, and efficient tracking of modifications.
 
@@ -131,7 +131,7 @@ To interact with your repository using Kumiko, please follow these steps:
 4. Follow the installation instructions, sticking to the default settings unless you have specific preferences.
 5. Complete the installation process.
 
-### 5.2 Edit the configuration file
+### 5.2 Edit Configuration File
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
@@ -155,7 +155,7 @@ Example `config.json`:
 
 Now, Kumiko will automatically push content changes to the specified Git repository during synchronization after the `gitUrl` value is provided.
 
-### 5.3 Git authentication
+### 5.3 Git Authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
