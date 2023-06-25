@@ -66,7 +66,7 @@ You can also include multiple scripts within a folder if you want to run them se
 
 When running multiple scripts, the execution order will depend on the alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
-### 3.3 Document Your Scripts (Optional)
+### 3.3 Metadata (Optional)
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
