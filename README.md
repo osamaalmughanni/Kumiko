@@ -211,11 +211,11 @@ You can also be more specific by using a forward slash. For example: `Project A/
 
 ## 7 — Featured Scripts
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+With Kumiko, we strive to share high-quality and dependency-free scripts within our community. You can explore our featured scripts by visiting the Featured page and give them a try. If you would like to feature one of your scripts with Kumiko, please get in touch with us via email.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
-*At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.*
+*Click on the documentation badge to read the documentation and better understand the functionality of each script.*
 
 ---
 
