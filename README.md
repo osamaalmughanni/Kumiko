@@ -29,9 +29,9 @@ Enter your email to verify your identity. Once logged in, please check your emai
 
 # Usage
 
-## 1 — Organise Your Scripts
+## 3 — Organise Your Scripts
 
-### 1.1 Folder Structure
+### 3.1 Folder Structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
@@ -51,7 +51,7 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
         └── 📄 script.dyn
 ```
 
-### 2.2 Playlists
+### 3.2 Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially as a Playlist:
 
@@ -70,7 +70,7 @@ You can also include multiple scripts within a folder if you want to run them se
 
 When running multiple scripts, the execution order will depend on the alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
-### 2.3 Metadata (Optional)
+### 3.3 Metadata (Optional)
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
@@ -113,7 +113,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *The documentation badge is interactive and, when clicked, will redirect the user to the provided URL.*
 
-## 3 — Publish Your Scripts
+## 4 — Publish Your Scripts
 
 Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become ready to be accessed or shared.
 
@@ -121,13 +121,13 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *After synchronizing your content, your scripts will be ready to execute within Revit. Simply hover the mouse over the script and click the Play button.*
 
-## 4 — Connect to Repository (Optional)
+## 5 — Connect to Repository (Optional)
 
 Connecting your content to a remote Git repository offers various benefits, including convenient access, collaboration with others, and efficient tracking of modifications.
 
 To interact with your repository using Kumiko, please follow these steps:
 
-### 4.1 Install Git
+### 5.1 Install Git
 
 1. Visit the official Git website: https://git-scm.com/downloads.
 2. Download the installer for Windows.
@@ -135,7 +135,7 @@ To interact with your repository using Kumiko, please follow these steps:
 4. Follow the installation instructions, sticking to the default settings unless you have specific preferences.
 5. Complete the installation process.
 
-### 4.2 Edit Configuration File
+### 5.2 Edit Configuration File
 
 1. Close Kumiko.
 2. Locate the `config.json` file at `%LOCALAPPDATA%\Kumiko`.
@@ -159,15 +159,15 @@ Example `config.json`:
 
 Now, Kumiko will automatically push content changes to the specified Git repository during synchronization after the `gitUrl` value is provided.
 
-### 4.3 Git Authentication
+### 5.3 Git Authentication
 
 When synchronizing, you may be prompted to authenticate your Git credentials. Make sure to follow the provided authentication process or instructions to securely verify your Git credentials and enable any interaction between Kumiko and the Git repository.
 
-## 5 — Manage Team Members
+## 6 — Manage Team Members
 
 If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts and instantly access your latest content.
 
-### 5.1 Add Team Members to all Resources
+### 6.1 Add Team Members to all Resources
 
 To share all your scripts with specific team members, click on the "Team" page in the sidebar and follow the steps demonstrated in this video.
 
@@ -175,7 +175,7 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 *Team members will not be able to view the content of your script; they will only be able to execute it.*
 
-### 5.2 Add Team Members to Specific Resources
+### 6.2 Add Team Members to Specific Resources
 
 To control which resources team members can access, you must first organize your scripts using a more structured approach. Start by creating a main folder for each project or category and put the relevant scripts inside. This way, you can assign team members to specific projects, allowing them access only to the resources within their assigned project.
 
