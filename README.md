@@ -21,9 +21,11 @@ Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version 
 
 ## 2 — Verify Your Identity
 
+Enter your email to verify your identity. Once logged in, please check your email for the verification code. Remember to check your junk mail folder if you don't receive any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
+
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
-Enter your email to verify your identity. Once logged in, please check your email for the verification code. Remember to check your junk mail folder if you don't receive any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
+*At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.*
 
 ---
 
