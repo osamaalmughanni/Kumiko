@@ -226,9 +226,10 @@ A: Yes, Kumiko detects automatically input nodes and prompts the user to modify 
 ---
 
 ## Contribution
-If you enjoy using Kumiko, consider making a <a href="https://liberapay.com/osamaalmughanni/donate" target="_blank">donation</a> or subscribing to our premium plans.
 
-Feel free to reach out to us at mail@getkumiko.com for any inquiries or feedback. For major changes, please open an issue.
+We value your feedback and encourage you to <a href="https://github.com/osamaalmughanni/Kumiko/issues/new" target="_blank">open an issue</a> for major changes. Your input is important to us, as it helps us address concerns and incorporate suggestions.
+
+If you enjoy using Kumiko, consider making a <a href="https://liberapay.com/osamaalmughanni/donate" target="_blank">donation</a> or support us by subscribing to our premium plans.
 
 ---
 
