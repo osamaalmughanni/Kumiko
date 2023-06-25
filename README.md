@@ -19,7 +19,7 @@ The app is designed for Windows-based computers and is distributed as a single e
 
 Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version of app. Make sure to close all active Revit applications and ensure that no Revit processes are running. After downloading the `Kumiko.exe` file, run it and follow the verification process.
 
-## 2 — Verify your identity
+## 2 — Verify Your Identity
 
 https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
 
@@ -27,7 +27,7 @@ Enter your email to verify your identity. Once logged in, please check your emai
 
 ## 3 — Organise Your Scripts
 
-### 3.1 Kumiko's Folder Structure
+### 3.1 Folder Structure
 
 By default, the recommended location for storing your Dynamo scripts is located at:
 ```
