@@ -165,7 +165,7 @@ When synchronizing, you may be prompted to authenticate your Git credentials. Ma
 
 ## 6 — Manage Team Members
 
-If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to execute specific scripts and instantly access your latest content.
+If you are a BIM Manager within an organization or company, there might be a need to share your scripts with other team members while maintaining control over their access to the content. In such circumstances, you have the option to grant other Members the ability to instantly access your latest content upon synchronising.
 
 ### 6.1 Add Team Members to all Resources
 
