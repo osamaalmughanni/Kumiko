@@ -117,7 +117,7 @@ Once you have successfully organized all your scripts, you can make them accessi
 
 https://github.com/osamaalmughanni/Kumiko/assets/49910802/830adc35-599f-474f-98b8-e6e86a9b8137
 
-*After synchronizing your content, your scripts will be ready to execute within Revit. Simply hover the mouse over the script and click the Play button.*
+*After synchronizing your content, your scripts will be ready to run within Revit. Simply hover the mouse over the script and click the Play button.*
 
 ## 5 — Connect to Repository (Optional)
 
@@ -211,7 +211,7 @@ On this page, you can access all the scripts shared with you by others. As soon 
 
 https://github.com/osamaalmughanni/Kumiko/assets/49910802/02588c08-3f28-4126-8548-1d93037e26cf
 
-*Click on the documentation badge to read the documentation and better understand the functionality of each script.*
+*Only verified users with an active subscription are allowed to share scripts.*
 
 ## 8 — Featured Scripts
 
