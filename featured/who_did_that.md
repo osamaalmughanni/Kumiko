@@ -1,16 +1,16 @@
-# Export schedule to .xlsx
+# Who did that
 
-Exports a schedula as an .xlsx file.
+Tells who modified the element.
 
 ## Description
 
-Export an active open schedule with element IDs from Revit to Excel, facilitating data analysis and manipulation outside of Revit.
+Displays the username of the individual who created, owns, and last modified the element.
 
 ## Execution
 
 ### Considerations
 
-- Sorted or grouped schedules can not be exported.
+- Limited functionality on non central models.
 
 ### Workflow
 
