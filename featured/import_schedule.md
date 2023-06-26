@@ -10,7 +10,7 @@ Import Excel data to update parameter values in Revit, streamlining bulk editing
 
 ### Considerations
 
-- The tool requires the same excel structure used in the `Export data as .xlsx` script.
+- The tool requires the same excel structure used in the `Export data as .xlsx` script, wherein the first column of the Excel file contains the element ID.
 
 ### Workflow
 
