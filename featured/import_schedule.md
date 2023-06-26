@@ -14,7 +14,7 @@ Import Excel data to update parameter values in Revit, streamlining bulk editing
 
 ### Workflow
 
-https://github.com/osamaalmughanni/Kumiko/assets/49910802/1a673a61-7759-483d-9630-83a4ed84229e
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/73b1fc69-bfba-4502-9f87-87395c3cd988
 
 ## Authors
 
