@@ -14,7 +14,7 @@ Export an active open schedule with element IDs from Revit to Excel, facilitatin
 
 ### Workflow
 
-https://github.com/osamaalmughanni/Kumiko/assets/49910802/cd16cc88-f223-41d2-bc79-344c933b1a40
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/d0260dae-e908-41dc-b838-9dee01a547ed
 
 ## Authors
 
