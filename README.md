@@ -23,7 +23,7 @@ Visit [getkumiko.com](https://www.getkumiko.com) to download the latest version 
 
 Enter your email to verify your identity. Once logged in, please check your email for the verification code. Remember to check your junk mail folder if you don't receive any email. Enter or paste the code to access your account. The verification code will expire after 10 minutes.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/deeaad56-3074-4c62-b75f-c6eadb8677ac
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/2580db4c-d949-4cac-a110-6588339998ee
 
 *Kumiko operates as a webview and is dependent on an internet connection for its functionality.*
 
