@@ -115,7 +115,7 @@ The content of the `script.json` file will be displayed as badges inside Kumiko.
 
 Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become ready to be accessed or shared.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/830adc35-599f-474f-98b8-e6e86a9b8137
 
 *After synchronizing your content, your scripts will be ready to execute within Revit. Simply hover the mouse over the script and click the Play button.*
 
