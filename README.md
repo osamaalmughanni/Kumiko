@@ -207,7 +207,7 @@ You can also be more specific by using a forward slash. For example: `Project A/
 
 ## 7 — Shared Scripts
 
-On this page, you can access all the scripts shared with you by others. As soon as another user adds you to their team, you will gain immediate access to the shared scripts. Any changes made by users will be automatically applied and visible to you in real-time.
+On this page, you can access all the scripts shared with you by others. As soon as another user adds you to their team, you will gain immediate access. Any changes made by users will be automatically applied and visible to you in real-time.
 
 https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
 
