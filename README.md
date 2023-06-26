@@ -1,7 +1,7 @@
 # What is Kumiko?
 Kumiko is similar to the traditional Dynamo Player, as it enables you to execute your Dynamo scripts within Revit files. However, it goes beyond standard functionalities by offering enhanced portability, Git-based collaboration, and seamless script sharing among team members.
 
-https://github.com/osamaalmughanni/Kumiko/assets/49910802/a7eb0d4e-307e-4590-813d-ede6a5bd05d5
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/a882c727-31b0-4a00-8279-adba2622293c
 
 ## Requirements
 The app is designed for Windows-based computers and is distributed as a single executable (exe) file. Here are the key requirements:
