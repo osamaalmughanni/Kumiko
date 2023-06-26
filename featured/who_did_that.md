@@ -14,7 +14,7 @@ Displays the username of the individual who created, owns, and last modified the
 
 ### Workflow
 
-https://github.com/osamaalmughanni/Kumiko/assets/49910802/cd16cc88-f223-41d2-bc79-344c933b1a40
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/68b88a4a-cd22-43d4-99ed-16a906bd3def
 
 ## Authors
 
