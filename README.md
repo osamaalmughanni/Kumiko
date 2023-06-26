@@ -211,7 +211,7 @@ On this page, you can access all the scripts shared with you by others. As soon 
 
 https://github.com/osamaalmughanni/Kumiko/assets/49910802/02588c08-3f28-4126-8548-1d93037e26cf
 
-*Only verified users with an active subscription are allowed to share scripts.*
+*Sharing of scripts is restricted to verified users with an active subscription. To determine the script owner, simply hover over the email icon.*
 
 ## 8 — Featured Scripts
 
