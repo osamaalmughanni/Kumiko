@@ -209,7 +209,7 @@ You can also be more specific by using a forward slash. For example: `Project A/
 
 On this page, you can access all the scripts shared with you by others. As soon as another user adds you to their team, you will gain immediate access. Any changes made by users will be automatically applied and visible to you in real-time.
 
-https://github.com/osamaalmughanni/Kumiko/assets/49910802/02588c08-3f28-4126-8548-1d93037e26cf
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/334f4e2f-b6ac-4c17-b793-2d9c50e80051
 
 *Sharing of scripts is restricted to verified users with an active subscription. To determine the script owner, simply hover over the email icon.*
 
