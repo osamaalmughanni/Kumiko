@@ -10,7 +10,7 @@ Displays the username of the individual who created, owns, and last modified the
 
 ### Considerations
 
-- Limited functionality on non central models.
+- Limited functionality inside non central models.
 
 ### Workflow
 
