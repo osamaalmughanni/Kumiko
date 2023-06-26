@@ -217,7 +217,7 @@ https://github.com/osamaalmughanni/Kumiko/assets/49910802/02588c08-3f28-4126-854
 
 With Kumiko, we strive to share high-quality and dependency-free scripts within our community. You can explore our featured scripts by visiting the Featured page and give them a try. If you would like to feature one of your scripts with Kumiko, please get in touch with us via email.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/b26be7b8-97e2-4861-9bca-dace2f590725
 
 *Click on the documentation badge to read the documentation and better understand the functionality of each script.*
 
