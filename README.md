@@ -159,7 +159,7 @@ Example `config.json`:
 }
 ```
 
-Now, Kumiko will automatically push content changes to the specified Git repository during synchronization.
+Now, Kumiko will automatically fetch and apply content changes to the designated Git repository during synchronization.
 
 ### 5.3 Git Authentication
 
