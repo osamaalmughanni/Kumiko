@@ -169,7 +169,7 @@ If you are a BIM Manager within an organization or company, there might be a nee
 
 To share all your scripts with specific team members, click on the "Team" page in the sidebar and follow the steps demonstrated in this video.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/61e97b67-8685-41a7-a2e4-14662d741faf
 
 *Team members will not be able to view the content of your script; they will only be able to execute it.*
 
@@ -201,7 +201,7 @@ Here's an example on how organize your scripts based on projects:
 
 In this case, you can add a team member to the resource `Project A` and share only the scripts within that folder.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+https://github.com/osamaalmughanni/Kumiko/assets/49910802/2c09f7f2-6479-4698-8252-3604e5a8e5fc
 
 You can also be more specific by using a forward slash. For example: `Project A/Export Room Areas.`
 
