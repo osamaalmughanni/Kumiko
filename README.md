@@ -205,7 +205,15 @@ https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-
 
 You can also be more specific by using a forward slash. For example: `Project A/Export Room Areas.`
 
-## 7 — Featured Scripts
+## 7 — Shared Scripts
+
+On this page, you can access all the scripts shared with you by others. As soon as another user adds you to their team, you will gain immediate access to the shared scripts. Any changes made by users will be automatically applied and visible to you in real-time.
+
+https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
+
+*Click on the documentation badge to read the documentation and better understand the functionality of each script.*
+
+## 8 — Featured Scripts
 
 With Kumiko, we strive to share high-quality and dependency-free scripts within our community. You can explore our featured scripts by visiting the Featured page and give them a try. If you would like to feature one of your scripts with Kumiko, please get in touch with us via email.
 
