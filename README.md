@@ -111,10 +111,6 @@ Here is a sample content of the `script.json` file:
 
 The content of the `script.json` file will be displayed as badges inside Kumiko.
 
-https://github.com/osamaalmughanni/docs/assets/49910802/dfb060e5-15e3-436a-a298-0140d0f220c6
-
-*The documentation badge is interactive and, when clicked, will redirect the user to the provided URL.*
-
 ## 4 — Publish Your Scripts
 
 Once you have successfully organized all your scripts, you can make them accessible by clicking on the synchronization symbol located in the sidebar. Once the symbol changes to green, your scripts will become ready to be accessed or shared.
