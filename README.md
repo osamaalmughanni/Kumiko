@@ -171,7 +171,7 @@ To share all your scripts with specific team members, click on the "Team" page i
 
 https://github.com/osamaalmughanni/Kumiko/assets/49910802/61e97b67-8685-41a7-a2e4-14662d741faf
 
-*Team members will not be able to view the content of your script; they will only be able to execute it.*
+*By leaving the resource input empty, you will be sharing all of your content with that particular user.*
 
 ### 6.2 Add Team Members to Specific Resources
 
