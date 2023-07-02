@@ -228,6 +228,9 @@ https://github.com/osamaalmughanni/Kumiko/assets/49910802/b26be7b8-97e2-4861-9bc
 ### Q: What is the purpose of this project?
 A: Kumiko's main purpose is to simplify the process of developing, sharing, and version-controlling Dynamo scripts.
 
+### Q: What does the word "Kumiko" mean?
+A: Kumiko refers to a traditional Japanese woodworking technique that involves the creation of intricate geometric patterns. The name "Kumiko" symbolizes the app's purpose of nurturing a strong sense of community and collaboration.
+
 ### Q: Can I use Kumiko for free?
 A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, you won't be able to add team members or share scripts without a paid subscription.
 
