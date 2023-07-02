@@ -228,14 +228,14 @@ https://github.com/osamaalmughanni/Kumiko/assets/49910802/b26be7b8-97e2-4861-9bc
 ### Q: What is the purpose of this project?
 A: Kumiko's main purpose is to simplify the process of developing, sharing, and version-controlling Dynamo scripts.
 
-### Q: What does the word "Kumiko" mean?
+### Q: Why the name "Kumiko"?
 A: Kumiko refers to a traditional Japanese woodworking technique that involves the creation of intricate geometric patterns. The name "Kumiko" symbolizes the app's purpose of nurturing a strong sense of community and collaboration.
 
 ### Q: Can I use Kumiko for free?
 A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, you won't be able to add team members or share scripts without a paid subscription.
 
-### Q: Does Kumiko detect uninstalled Dynamo packages?
-A: Kumiko detects uninstalled Dynamo packages and notifies the user. However, it will not automatically install the missing packages. We are working on implementing auto-installation options in the future.
+### Q: Can Kumiko identify uninstalled Dynamo packages?
+A: Yes, Kumiko has the ability to detect uninstalled Dynamo packages and will temporarily install them. When sharing scripts with other members who may not have the same packages, ensure that the shared script is functional on your machine. Your installed packages will be bundled and shared along with each script.
 
 ### Q: Does Kumiko detect input nodes?
 A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not yet supported.
