@@ -240,6 +240,9 @@ A: Yes, Kumiko has the ability to detect uninstalled Dynamo packages and will te
 ### Q: Does Kumiko detect input nodes?
 A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not yet supported.
 
+### Q: Why is Kumiko not working on my machine?
+A: Kumiko will only work on Revit versions 2023.1 and above. If you are experiencing any issues, please ensure that you close all instances of Revit, wait a few seconds, and start Kumiko before launching Revit. This will ensure that all dependencies are installed correctly.
+
 ---
 
 ## Contribution
