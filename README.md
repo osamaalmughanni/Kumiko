@@ -255,7 +255,7 @@ A: Kumiko refers to a traditional Japanese woodworking technique that involves t
 A: Yes, absolutely. You can use most of Kumiko's features at no cost. However, you won't be able to add team members or share scripts without a paid subscription.
 
 ### Q: Can Kumiko identify uninstalled Dynamo packages?
-A: Yes, Kumiko has the ability to detect uninstalled Dynamo packages and will temporarily install them. When sharing scripts with other members who may not have the same packages, ensure that used packages are added inside the `.packages` folder. Your installed packages will be bundled and shared along with each script.
+A: Yes, Kumiko has the ability to detect uninstalled Dynamo packages and will automatically install them. When sharing scripts with other members who may not have the same packages, ensure that used packages are added inside the `.packages` folder. Your installed packages will be bundled and shared along with each script.
 
 ### Q: Does Kumiko detect input nodes?
 A: Yes, Kumiko detects automatically input nodes and prompts the user to modify the inputs before executing the script. Please notice that there may be some input types that are not yet supported.
