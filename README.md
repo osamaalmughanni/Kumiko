@@ -53,7 +53,7 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
         └── 📄 script.dyn
 ```
 
-### 3.2 Packages
+### 3.2 Add Packages
 
 If you utilize packages in your scripts, you can create a folder named `.packages` and include all the packages you use. Optionally, you can set this folder as the new package download path under your Dynamo preferences, so you can ensure that any new packages are downloaded there.
 
