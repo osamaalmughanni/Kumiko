@@ -53,12 +53,31 @@ Dynamo scripts must be grouped within folders, with the folder name providing a 
         └── 📄 script.dyn
 ```
 
-### 3.2 Playlists
+### 3.2 Packages
+
+If you utilize packages in your scripts, you can create a folder named `.packages` and include all the packages you use. Optionally, you can set this folder as the new package download path under your Dynamo preferences, so you can ensure that any new packages are downloaded there.
+
+```
+- 📁 Kumiko
+  ├── 📁 .packages
+  │     ├── 📁 bimorphNodes
+  │     ├── 📁 Data-Shapes
+  │     └── 📁 Rhythm
+  ├── 📁 Export Room Areas
+  │     └── 📄 script.dyn
+  ├── 📁 Create Floor Plans
+  │     └── 📄 script.dyn
+  └── 📁 Generate 3D Views
+        └── 📄 script.dyn
+```
+
+### 3.3 Playlists
 
 You can also include multiple scripts within a folder if you want to run them sequentially as a Playlist:
 
 ```
 - 📁 Kumiko
+  ├── 📁 .packages
   ├── 📁 Export Room Areas
   │     ├── 📄 01-removeUnplaced.dyn
   │     └── 📄 02-saveToExcel.dyn
@@ -72,12 +91,13 @@ You can also include multiple scripts within a folder if you want to run them se
 
 When running multiple scripts, the execution order will depend on the alphabetical order. So, make sure to keep that in mind while organizing your scripts.
 
-### 3.3 Metadata (Optional)
+### 3.4 Metadata (Optional)
 
 Additionally, you can include a `script.json` file to provide additional information about the script.
 
 ```
 - 📁 Kumiko
+  ├── 📁 .packages
   ├── 📁 Export Room Areas
   │   ├── 📄 01-removeUnplaced.dyn
   │   ├── 📄 02-saveToExcel.dyn
